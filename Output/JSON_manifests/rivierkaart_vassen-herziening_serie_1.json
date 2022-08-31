@@ -94,7 +94,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=440"
                                                             }
                                                   ],
-                                                  "label": "45 - Goedereede (eerste uitgave). 1960"
+                                                  "label": "13 - Hardinxveld (Oost). 1931"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=441",
@@ -164,7 +164,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=441"
                                                             }
                                                   ],
-                                                  "label": "46 - Rockanje (eerste uitgave). 1958"
+                                                  "label": "13 - Hardinxveld (West). 1931"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=442",
@@ -234,7 +234,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=442"
                                                             }
                                                   ],
-                                                  "label": "01 - Westervoort (Noord). 1927"
+                                                  "label": "14 - Sliedrecht (Oost). 1931"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=443",
@@ -304,7 +304,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=443"
                                                             }
                                                   ],
-                                                  "label": "01 - Westervoort (Zuid). 1927"
+                                                  "label": "14 - Sliedrecht (West). 1931"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=444",
@@ -374,7 +374,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=444"
                                                             }
                                                   ],
-                                                  "label": "02 - Reden (Noord). 1927"
+                                                  "label": "15 - Dordrecht (Oost). 1931"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=445",
@@ -444,7 +444,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=445"
                                                             }
                                                   ],
-                                                  "label": "02 - Reden (Zuid). 1927"
+                                                  "label": "15 - Dordrecht (West. 1931"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=446",
@@ -514,7 +514,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=446"
                                                             }
                                                   ],
-                                                  "label": "03 - Doesburg (Noord). 1927"
+                                                  "label": "15a - Alblasserdam Zuid. 1931"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=447",
@@ -584,7 +584,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=447"
                                                             }
                                                   ],
-                                                  "label": "03 - Doesburg (Zuid). 1927"
+                                                  "label": "16[a] - Puttershoek . Noord. 1931"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=448",
@@ -654,7 +654,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=448"
                                                             }
                                                   ],
-                                                  "label": "04 - Brummen (Oost). 1927"
+                                                  "label": "16[b] - Puttershoek. Zuid. 1931"
                                         }
                               ]
                     }

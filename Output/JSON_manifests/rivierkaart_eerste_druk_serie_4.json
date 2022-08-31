@@ -94,7 +94,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=74"
                                                             }
                                                   ],
-                                                  "label": "18A - Papillot, behoorende bij het blad No. 18. 1847"
+                                                  "label": "- - Titelblad met bladwijzer en verklaring van de zamenstelling der kaart. 1846"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=75",
@@ -164,7 +164,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=75"
                                                             }
                                                   ],
-                                                  "label": "19 - Zwartsluis. 1844"
+                                                  "label": "01 - Canne (Signal). 1849"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=76",
@@ -234,7 +234,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=76"
                                                             }
                                                   ],
-                                                  "label": "20 - Hasselt. 1844"
+                                                  "label": "02 - Maastricht. 1847"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=77",
@@ -304,7 +304,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=77"
                                                             }
                                                   ],
-                                                  "label": "S1 - Supplementair Blad. Voorst.. 1843"
+                                                  "label": "03 - Reckheim. 1847"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=78",
@@ -374,7 +374,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=78"
                                                             }
                                                   ],
-                                                  "label": "S2 - Dalfsen. 1843"
+                                                  "label": "04 - Steijn. 1847"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=79",
@@ -444,7 +444,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=79"
                                                             }
                                                   ],
-                                                  "label": "- - Titelblad met bladwijzer en verklaring van de zamenstelling der kaart. 1846"
+                                                  "label": "05 - Berg. 1848"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=80",
@@ -514,7 +514,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=80"
                                                             }
                                                   ],
-                                                  "label": "01 - Canne (Signal). 1849"
+                                                  "label": "06 - Stockhem. 1849"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=81",
@@ -584,7 +584,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=81"
                                                             }
                                                   ],
-                                                  "label": "02 - Maastricht. 1847"
+                                                  "label": "07 - Maeseijck. 1849"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=82",
@@ -654,7 +654,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=82"
                                                             }
                                                   ],
-                                                  "label": "03 - Reckheim. 1847"
+                                                  "label": "08 - Stevensweerd. 1849"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=83",
@@ -724,7 +724,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=83"
                                                             }
                                                   ],
-                                                  "label": "04 - Steijn. 1847"
+                                                  "label": "09 - Roermond. 1849"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=84",
@@ -794,7 +794,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=84"
                                                             }
                                                   ],
-                                                  "label": "05 - Berg. 1848"
+                                                  "label": "09A - Supplementair Blad, behoorende bij het blad No. 9. Roermond. 1849"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=85",
@@ -864,7 +864,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=85"
                                                             }
                                                   ],
-                                                  "label": "06 - Stockhem. 1849"
+                                                  "label": "10 - Horn. 1849"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=86",
@@ -934,7 +934,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=86"
                                                             }
                                                   ],
-                                                  "label": "07 - Maeseijck. 1849"
+                                                  "label": "11 - Neer. 1849"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=87",
@@ -1004,7 +1004,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=87"
                                                             }
                                                   ],
-                                                  "label": "08 - Stevensweerd. 1849"
+                                                  "label": "12 - Kessel. 1850"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=88",
@@ -1074,7 +1074,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=88"
                                                             }
                                                   ],
-                                                  "label": "09 - Roermond. 1849"
+                                                  "label": "14 - Velden. 1850"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=89",
@@ -1144,7 +1144,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=89"
                                                             }
                                                   ],
-                                                  "label": "09A - Supplementair Blad, behoorende bij het blad No. 9. Roermond. 1849"
+                                                  "label": "15 - Lottum. 1850"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=90",
@@ -1214,7 +1214,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=90"
                                                             }
                                                   ],
-                                                  "label": "10 - Horn. 1849"
+                                                  "label": "16 - Broekhuizenvorst. 1850"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=91",
@@ -1284,7 +1284,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=91"
                                                             }
                                                   ],
-                                                  "label": "11 - Neer. 1849"
+                                                  "label": "18 - Vierlingsbeek. 1850"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=92",
@@ -1354,7 +1354,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=92"
                                                             }
                                                   ],
-                                                  "label": "12 - Kessel. 1850"
+                                                  "label": "19 - Sambeek. 1850"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=93",
@@ -1424,7 +1424,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=93"
                                                             }
                                                   ],
-                                                  "label": "13 - Venlo. 1850"
+                                                  "label": "20 - Beugen. 1851"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=94",
@@ -1494,7 +1494,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=94"
                                                             }
                                                   ],
-                                                  "label": "14 - Velden. 1850"
+                                                  "label": "21 - Cuijk. 1851"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=95",
@@ -1564,7 +1564,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=95"
                                                             }
                                                   ],
-                                                  "label": "15 - Lottum. 1850"
+                                                  "label": "22 - Groot Linden. 1851"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=96",
@@ -1634,7 +1634,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=96"
                                                             }
                                                   ],
-                                                  "label": "16 - Broekhuizenvorst. 1850"
+                                                  "label": "22a - Supplementair Blad, behoorende bij het blad No. 22, Groot Linden. 1851"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=97",
@@ -1704,7 +1704,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=97"
                                                             }
                                                   ],
-                                                  "label": "17 - Geijsteren. 1850"
+                                                  "label": "23 - Beers. 1851"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=98",
@@ -1774,7 +1774,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=98"
                                                             }
                                                   ],
-                                                  "label": "18 - Vierlingsbeek. 1850"
+                                                  "label": "24 - Zeeland. 1851"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=99",
@@ -1844,7 +1844,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=99"
                                                             }
                                                   ],
-                                                  "label": "19 - Sambeek. 1850"
+                                                  "label": "25 - Grave. 1851"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=100",
@@ -1914,7 +1914,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=100"
                                                             }
                                                   ],
-                                                  "label": "20 - Beugen. 1851"
+                                                  "label": "26 - Ravestein. 1852"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=101",
@@ -1984,7 +1984,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=101"
                                                             }
                                                   ],
-                                                  "label": "21 - Cuijk. 1851"
+                                                  "label": "27 - Megen. 1853"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=102",
@@ -2054,7 +2054,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=102"
                                                             }
                                                   ],
-                                                  "label": "22 - Groot Linden. 1851"
+                                                  "label": "28 - Lith. 1853"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=103",
@@ -2124,7 +2124,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=103"
                                                             }
                                                   ],
-                                                  "label": "22a - Supplementair Blad, behoorende bij het blad No. 22, Groot Linden. 1851"
+                                                  "label": "29 - Rossum. 1853"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=104",
@@ -2194,7 +2194,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=104"
                                                             }
                                                   ],
-                                                  "label": "23 - Beers. 1851"
+                                                  "label": "29a - Supplementair Blad Rossum(No. 29). 1859"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=105",
@@ -2264,7 +2264,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=105"
                                                             }
                                                   ],
-                                                  "label": "24 - Zeeland. 1851"
+                                                  "label": "30 - Driel. 1854"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=106",
@@ -2334,7 +2334,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=106"
                                                             }
                                                   ],
-                                                  "label": "25 - Grave. 1851"
+                                                  "label": "31 - Ammerzoden. 1854"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=107",
@@ -2404,7 +2404,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=107"
                                                             }
                                                   ],
-                                                  "label": "26 - Ravestein. 1852"
+                                                  "label": "32 - Heusden. 1854"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=108",
@@ -2474,7 +2474,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=108"
                                                             }
                                                   ],
-                                                  "label": "27 - Megen. 1853"
+                                                  "label": "33 - Wijk. 1854"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=109",
@@ -2544,7 +2544,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=109"
                                                             }
                                                   ],
-                                                  "label": "28 - Lith. 1853"
+                                                  "label": "33A - Supplement, behoorende bij Blad No. 33 Wijk. 1854"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=110",
@@ -2614,7 +2614,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=110"
                                                             }
                                                   ],
-                                                  "label": "29 - Rossum. 1853"
+                                                  "label": "34 - Woudrichem. 1856"
                                         }
                               ]
                     }

@@ -23,7 +23,7 @@ df_baseset = pd.DataFrame.from_records(df_json.base_set.values)     # Convert ba
 gr_series = df_baseset.groupby(["editie", "serie"]).indices         # Group the files by editie and serie
 series_keys = list(gr_series.keys())                                # Get the keys of each group
 
-filename_arr = []
+df_filename = pd.DataFrame(columns=['filename', 'edit_distance'])
 
 for n in range(len(df_json)):
     # rep_url = pd.DataFrame.from_records(fnd_url[l])
@@ -35,10 +35,12 @@ for n in range(len(df_json)):
             if fnd_rep:
                 if 'repository_url' in fnd_rep[0]:
                     rep_url = fnd_rep[0]['repository_url']
-                    filename_arr = np.append(filename_arr, rep_url.split('/')[-1])
+                    # filename_arr = np.append(filename_arr, rep_url.split('/')[-1])
+                    df_filename = df_filename.append(pd.DataFrame([{'filename': rep_url.split('/')[-1]}], index=[n]))
                     break
                 else:
-                    filename_arr = np.append(filename_arr,  df_json.iloc[n].display_title)
+                    # filename_arr = np.append(filename_arr,  df_json.iloc[n].display_title)
+                    df_filename = df_filename.append(pd.DataFrame([{'filename': df_json.iloc[n].display_title}], index=[n]))
             # else:
             #     filename_arr = np.append(filename_arr,  df_json.iloc[n].display_title)
         # else:
@@ -131,22 +133,27 @@ for i in range(len(series_keys)):                               # Go through eac
             #                 json_file = df_json.display_title[gr_series[key]][rep_key]
             #         else:
             #             json_file = df_json.display_title[gr_series[key]][rep_key]
-            for json_file in filename_arr:
+            for fi in df_filename.index:
                 # if rep_url:
                 #     rep_url = rep_url[0]['repository_url']
                 #     json_file = rep_url.split('/')[-1]
                 # else:
                 #     json_file = df_json.display_title[gr_series[key]][k]
-                edit_distance = np.append(edit_distance,
-                                          nltk.edit_distance(csv_filename, json_file,
-                                                             substitution_cost=1, transpositions=False))
+                json_file = df_filename.loc[fi, 'filename']
+                # edit_distance = np.append(edit_distance,
+                #                           nltk.edit_distance(csv_filename, json_file,
+                #                                              substitution_cost=1, transpositions=False))
+                df_filename.loc[fi, 'edit_distance'] = nltk.edit_distance(csv_filename, json_file,
+                                                                           substitution_cost=1,
+                                                                           transpositions=False)
             # min_edit = np.min(edit_distance)
             # if min_edit/len(csv_filename) < 0.4:
             # json_index = df_json.display_title[gr_series[key]].index[np.argmin(edit_distance)]  # Get file name
-            json_index = np.argmin(edit_distance)
+            # json_index = np.argmin(edit_distance)
+            json_index = df_filename.index[df_filename['edit_distance'] == df_filename['edit_distance'].min()]
             # title_instance = df_json['titel'][json_index]
             title_instance = df_json['display_title'][json_index]
-            seq_json['sequences'][0]['canvases'][j]['label'] = title_instance
+            seq_json['sequences'][0]['canvases'][j]['label'] = title_instance.values[0]
             # geo = df_json.base_sheet[json_index]['region']['geom4326']
             # if geo:
             #     file = csv_index['Origin'].values[0].split('/')[-1]
@@ -183,58 +190,59 @@ for i in range(len(series_keys)):                               # Go through eac
 
 
 
-    # group_index = gr_series[key]
-    # for j in range(len(group_index)):                               # Go through all photos within each group
-    #     js_i = group_index[j]
-    #     edition = df_baseset["editie"][js_i].replace(" ", "_").replace("-", "_").lower()  # Get edition number
-    #     series = df_baseset["serie"][js_i].replace(" ", "_").lower()                      # Get series number
-    #
-    #     if edition and series:  # Check if edition or series exists
-    #         newdir = rootdir + "/" + edition + "/Serie_" + series
-    #
-    #         title = df_json.display_title[js_i]
-    #         files = [f for f in os.listdir(newdir)
-    #                  if os.path.isfile(os.path.join(newdir, f))]  # List all files in directory
-    #         edit_distance = []
-    #
-    #         ## Compare file names in folder to file name from .json file
-    #         for k in files:
-    #             edit_distance = np.append(edit_distance,
-    #                                       nltk.edit_distance(title, k,
-    #                                                          substitution_cost=1, transpositions=False))
-    #         # Get file name with closest resemblance (edit distance)
-    #         filename = files[np.argmin(edit_distance)]  # Get file name
-    #
-    #         csv_index = df_dlcs.loc[df_dlcs["Origin"].str.contains(filename, case=False)]  # Get dlcs .csv data
-    #
-    #
-    #     ## TO DO:
-    #         # Get json of first file in sequence and use it as base file
-    #         # Put meta data in base file
-    #         # Add series label
-    #     if edition and series:                                                      # Check if edition or series exists
-    #         newdir = rootdir+"/"+edition+"/Serie_"+series
-    #
-    #         title = df_json.display_title[js_i]
-    #         files = [f for f in os.listdir(newdir)
-    #                  if os.path.isfile(os.path.join(newdir, f))]                    # List all files in directory
-    #         edit_distance = []
-    #
-    #         ## Compare file names in folder to file name from .json file
-    #         for k in files:
-    #             edit_distance = np.append(edit_distance,
-    #                                       nltk.edit_distance(title, k,
-    #                                                          substitution_cost=1, transpositions=False))
-    #         # Get file name with closest resemblance (edit distance)
-    #         filename = files[np.argmin(edit_distance)]      # Get file name
-    #
-    #         csv_index = df_dlcs.loc[df_dlcs["Origin"].str.contains(filename, case=False)]   # Get dlcs .csv data
-    #         csv_uuid = csv_index.ID.values[0]               # Get uuid from .csv file
-    #         url = dlcs_base+csv_uuid                        # Make URL where json for file can be found
-    #         file_json = requests.get(url).json()            # Get .json file
-    #         file_canvas = file_json["sequences"][0]["canvases"]
-    #     else:
-    #         print(str(js_i)+" is empty")
+
+#     # group_index = gr_series[key]
+#     # for j in range(len(group_index)):                               # Go through all photos within each group
+#     #     js_i = group_index[j]
+#     #     edition = df_baseset["editie"][js_i].replace(" ", "_").replace("-", "_").lower()  # Get edition number
+#     #     series = df_baseset["serie"][js_i].replace(" ", "_").lower()                      # Get series number
+#     #
+#     #     if edition and series:  # Check if edition or series exists
+#     #         newdir = rootdir + "/" + edition + "/Serie_" + series
+#     #
+#     #         title = df_json.display_title[js_i]
+#     #         files = [f for f in os.listdir(newdir)
+#     #                  if os.path.isfile(os.path.join(newdir, f))]  # List all files in directory
+#     #         edit_distance = []
+#     #
+#     #         ## Compare file names in folder to file name from .json file
+#     #         for k in files:
+#     #             edit_distance = np.append(edit_distance,
+#     #                                       nltk.edit_distance(title, k,
+#     #                                                          substitution_cost=1, transpositions=False))
+#     #         # Get file name with closest resemblance (edit distance)
+#     #         filename = files[np.argmin(edit_distance)]  # Get file name
+#     #
+#     #         csv_index = df_dlcs.loc[df_dlcs["Origin"].str.contains(filename, case=False)]  # Get dlcs .csv data
+#     #
+#     #
+#     #     ## TO DO:
+#     #         # Get json of first file in sequence and use it as base file
+#     #         # Put meta data in base file
+#     #         # Add series label
+#     #     if edition and series:                                                      # Check if edition or series exists
+#     #         newdir = rootdir+"/"+edition+"/Serie_"+series
+#     #
+#     #         title = df_json.display_title[js_i]
+#     #         files = [f for f in os.listdir(newdir)
+#     #                  if os.path.isfile(os.path.join(newdir, f))]                    # List all files in directory
+#     #         edit_distance = []
+#     #
+#     #         ## Compare file names in folder to file name from .json file
+#     #         for k in files:
+#     #             edit_distance = np.append(edit_distance,
+#     #                                       nltk.edit_distance(title, k,
+#     #                                                          substitution_cost=1, transpositions=False))
+#     #         # Get file name with closest resemblance (edit distance)
+#     #         filename = files[np.argmin(edit_distance)]      # Get file name
+#     #
+#     #         csv_index = df_dlcs.loc[df_dlcs["Origin"].str.contains(filename, case=False)]   # Get dlcs .csv data
+#     #         csv_uuid = csv_index.ID.values[0]               # Get uuid from .csv file
+#     #         url = dlcs_base+csv_uuid                        # Make URL where json for file can be found
+#     #         file_json = requests.get(url).json()            # Get .json file
+#     #         file_canvas = file_json["sequences"][0]["canvases"]
+#     #     else:
+#     #         print(str(js_i)+" is empty")
 
 # image_corners = []
 # for i in range(10):#len(df_json)):

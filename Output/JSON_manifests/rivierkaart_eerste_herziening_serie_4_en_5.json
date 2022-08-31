@@ -164,7 +164,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=208"
                                                             }
                                                   ],
-                                                  "label": "01 - Westervoort. 1877"
+                                                  "label": "01 - Lanaye. 1893"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=209",
@@ -234,7 +234,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=209"
                                                             }
                                                   ],
-                                                  "label": "02 - Genne. 1906"
+                                                  "label": "03 - Itteren. 1894"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=210",
@@ -304,7 +304,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=210"
                                                             }
                                                   ],
-                                                  "label": "02 - Rheden. 1888"
+                                                  "label": "04 - Stein. 1895"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=211",
@@ -374,7 +374,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=211"
                                                             }
                                                   ],
-                                                  "label": "03 - Doesburg. 1888"
+                                                  "label": "05 - Berg. 1896"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=212",
@@ -444,7 +444,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=212"
                                                             }
                                                   ],
-                                                  "label": "03 - Zwartsluis. 1908"
+                                                  "label": "09 - Horn. 1903"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=213",
@@ -514,7 +514,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=213"
                                                             }
                                                   ],
-                                                  "label": "04 - Brummen. 1888"
+                                                  "label": "10 - Neer. 1903"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=214",
@@ -584,7 +584,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=214"
                                                             }
                                                   ],
-                                                  "label": "04 - Kraggenburg. 1906"
+                                                  "label": "11 - Kessel. 1903"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=215",
@@ -654,7 +654,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=215"
                                                             }
                                                   ],
-                                                  "label": "05 - Zutphen. 1889"
+                                                  "label": "14 - Broekhuysenvorst. 1902"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=216",
@@ -724,7 +724,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=216"
                                                             }
                                                   ],
-                                                  "label": "06 - Gorssel. 1889"
+                                                  "label": "16 - Vierlingsbeek. 1900"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=217",
@@ -794,7 +794,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=217"
                                                             }
                                                   ],
-                                                  "label": "07 - Deventer. 1890"
+                                                  "label": "17 - Sambeek. 1900"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=218",
@@ -864,7 +864,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=218"
                                                             }
                                                   ],
-                                                  "label": "08 - Olst. 1889"
+                                                  "label": "20 - Linden. 1898"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=219",
@@ -934,7 +934,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=219"
                                                             }
                                                   ],
-                                                  "label": "09 - Wijhe. 1890"
+                                                  "label": "21 - Grave. 1898"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=220",
@@ -1004,7 +1004,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=220"
                                                             }
                                                   ],
-                                                  "label": "10 - Windesheim. 1890"
+                                                  "label": "22 - Ravenstein. 1897"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=221",
@@ -1074,7 +1074,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=221"
                                                             }
                                                   ],
-                                                  "label": "11 - Zwolle. 1892"
+                                                  "label": "23 - Megen. 1898"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=222",
@@ -1144,7 +1144,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=222"
                                                             }
                                                   ],
-                                                  "label": "12 - Zalk. 1892"
+                                                  "label": "30 - Zaltbommel. 1873"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=223",
@@ -1214,7 +1214,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=223"
                                                             }
                                                   ],
-                                                  "label": "13 - Kampen. 1893"
+                                                  "label": "31 - Driel. 1883"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=224",
@@ -1284,7 +1284,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=224"
                                                             }
                                                   ],
-                                                  "label": "14 - Keteldiep. 1894"
+                                                  "label": "32 - Hedel. 1883"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=225",
@@ -1354,7 +1354,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=225"
                                                             }
                                                   ],
-                                                  "label": "15 - Ganzendiep en Goot. 1895"
+                                                  "label": "33 - Heusden. 1885"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=226",
@@ -1424,7 +1424,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=226"
                                                             }
                                                   ],
-                                                  "label": "S2 - Dalfsen.. 1909"
+                                                  "label": "34 - Wijk. 1884"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=227",
@@ -1494,7 +1494,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=227"
                                                             }
                                                   ],
-                                                  "label": "01 - Lanaye. 1893"
+                                                  "label": "35 - Brakel. 1873"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=228",
@@ -1564,7 +1564,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=228"
                                                             }
                                                   ],
-                                                  "label": "02 - Maastricht. 1893"
+                                                  "label": "36 - Gorinchem. 1874"
                                         }
                               ]
                     }

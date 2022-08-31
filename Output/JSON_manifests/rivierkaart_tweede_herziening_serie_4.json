@@ -94,7 +94,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=409"
                                                             }
                                                   ],
-                                                  "label": "22 - Ravenstein (Derde uitgave). 1960"
+                                                  "label": "01 - Westervoort (Noord). 1927"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=410",
@@ -164,7 +164,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=410"
                                                             }
                                                   ],
-                                                  "label": "23 - Batenburg (Derde uitgave). 1950"
+                                                  "label": "01 - Westervoort (Zuid). 1927"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=411",
@@ -234,7 +234,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=411"
                                                             }
                                                   ],
-                                                  "label": "24 - Megen (Derde uitgave). 1950"
+                                                  "label": "02 - Reden (Noord). 1927"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=412",
@@ -304,7 +304,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=412"
                                                             }
                                                   ],
-                                                  "label": "25 - Alphen (Derde uitgave). 1950"
+                                                  "label": "03 - Doesburg (Noord). 1927"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=413",
@@ -374,7 +374,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=413"
                                                             }
                                                   ],
-                                                  "label": "27 - Kerkdriel (Derde uitgave). 1960"
+                                                  "label": "04 - Brummen (Vierde uitgave). 1961"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=414",
@@ -444,7 +444,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=414"
                                                             }
                                                   ],
-                                                  "label": "26 - Varik (Derde uitgave). 1960"
+                                                  "label": "04 - Brummen (Oost). 1927"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=415",
@@ -514,7 +514,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=415"
                                                             }
                                                   ],
-                                                  "label": "28 - Hedel (Derde gedeeltelijk Vierde uitgave). 1959"
+                                                  "label": "05 - Zutfen, Noord. 1927"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=416",
@@ -584,7 +584,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=416"
                                                             }
                                                   ],
-                                                  "label": "29 - Heusden. 1959"
+                                                  "label": "05 - Zutphen (Vierde uitgave). 1961"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=417",
@@ -654,7 +654,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=417"
                                                             }
                                                   ],
-                                                  "label": "29A - Poederoijen (Vierde uitgave). 1959"
+                                                  "label": "06 - Gorsel, Noord. 1927"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=418",
@@ -724,7 +724,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=418"
                                                             }
                                                   ],
-                                                  "label": "29B - Gorinchem (vijfde uitgave). 1959"
+                                                  "label": "06 - Gorsel, Zuid. 1927"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=419",
@@ -794,7 +794,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=419"
                                                             }
                                                   ],
-                                                  "label": "29C - Hardinxveld (Vierde uitgave). 1950"
+                                                  "label": "06 - Gorssel. 1960"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=420",
@@ -864,7 +864,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=420"
                                                             }
                                                   ],
-                                                  "label": "29D - Sliedrecht (Derde uitgave). 1937"
+                                                  "label": "07 - Deventer (Oost). 1927"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=421",
@@ -934,7 +934,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=421"
                                                             }
                                                   ],
-                                                  "label": "30 - Heesbeen (Derde uitgave). 1955"
+                                                  "label": "07 - Deventer (West). 1927"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=422",
@@ -1004,7 +1004,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=422"
                                                             }
                                                   ],
-                                                  "label": "31 - Capelle (Derde uitgave). 1955"
+                                                  "label": "08 - Olst (Noord). 1927"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=423",
@@ -1074,7 +1074,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=423"
                                                             }
                                                   ],
-                                                  "label": "32 - Raamsdonk (Vierde uitgave). 1940"
+                                                  "label": "08 - Olst (Zuid). 1927"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=424",
@@ -1144,7 +1144,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=424"
                                                             }
                                                   ],
-                                                  "label": "32A - Nieuwendijk (Derde, gedeeltelijk Vierde uitgave). 1938"
+                                                  "label": "09 - Wijhe, Noord. 1927"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=425",
@@ -1214,7 +1214,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=425"
                                                             }
                                                   ],
-                                                  "label": "32B - \u2019s-Gravenmoer (Tweede uitgave). 1954"
+                                                  "label": "09 - Wijhe, Zuid. 1927"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=426",
@@ -1284,7 +1284,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=426"
                                                             }
                                                   ],
-                                                  "label": "33 - Geertuidenberg (Vierde uitgave). 1941"
+                                                  "label": "10 - Hattem, Oost. 1931"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=427",
@@ -1354,7 +1354,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=427"
                                                             }
                                                   ],
-                                                  "label": "33A - Kop van \u2019t Land (Derde uitgave). 1937"
+                                                  "label": "10 - Hattem, West. 1931"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=428",
@@ -1424,7 +1424,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=428"
                                                             }
                                                   ],
-                                                  "label": "34 - Hoge Zwaluwe (Vierde uitgave). 1934"
+                                                  "label": "11 - Zwolle, Oost. 1931"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=429",
@@ -1494,7 +1494,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=429"
                                                             }
                                                   ],
-                                                  "label": "33b - Steelhoven (Tweede uitgave). 1954"
+                                                  "label": "11 - Zwolle (Vierde, gedeeltelijk Derde uitgave). 1950"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=430",
@@ -1564,7 +1564,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=430"
                                                             }
                                                   ],
-                                                  "label": "35 - Lage Zwaluwe (Vierde uitgave). 1934"
+                                                  "label": "11 - Zwolle, West. 1931"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=431",
@@ -1634,7 +1634,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=431"
                                                             }
                                                   ],
-                                                  "label": "36 - Moerdijk (Vierde uitgave). 1940"
+                                                  "label": "11A - Hasselt (Derde uitgave). 1951"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=432",
@@ -1704,7 +1704,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=432"
                                                             }
                                                   ],
-                                                  "label": "37 - Noordschans (Derde uitgave). 1940"
+                                                  "label": "11B - Zwartsluis (Derde, gedeeltelijk Vierde uitgave). 1951"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=433",
@@ -1774,7 +1774,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=433"
                                                             }
                                                   ],
-                                                  "label": "38 - Willemstad (Tweede uitgave). 1959"
+                                                  "label": "11C - Zwartemeer (Tweede, gedeeltlijk vierde uitgave). 1959"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=434",
@@ -1844,7 +1844,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=434"
                                                             }
                                                   ],
-                                                  "label": "39 - Dintelsas (Tweede uitgave). 1957"
+                                                  "label": "12 - Kampen. Noord. 1932"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=435",
@@ -1914,7 +1914,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=435"
                                                             }
                                                   ],
-                                                  "label": "40 - Den Bommel (Tweede uitgave). 1958"
+                                                  "label": "12 - Kampen. Zuid. 1932"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=436",
@@ -1984,7 +1984,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=436"
                                                             }
                                                   ],
-                                                  "label": "41 - Tien Gemeten (Tweede uitgave). 1950"
+                                                  "label": "12A - Ganzendiep en Goot. Oost. 1933"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=437",
@@ -2054,7 +2054,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=437"
                                                             }
                                                   ],
-                                                  "label": "42 - Stad aan \u2019t Haringvliet (Tweede uitgave). 1957"
+                                                  "label": "12A - Ganzendiep en Goot. West. 1933"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=438",
@@ -2124,7 +2124,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=438"
                                                             }
                                                   ],
-                                                  "label": "44 - Hellevoetsluis (eerste uitgave). 1959"
+                                                  "label": "13 - Keteldiep. Oost. 1933"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=439",
@@ -2194,7 +2194,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=439"
                                                             }
                                                   ],
-                                                  "label": "43 - Middelharnis (eerste uitgave). 1953"
+                                                  "label": "13 - Keteldiep. (West). 1933"
                                         }
                               ]
                     }

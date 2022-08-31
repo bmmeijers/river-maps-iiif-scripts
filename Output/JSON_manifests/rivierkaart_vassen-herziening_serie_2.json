@@ -94,7 +94,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=449"
                                                             }
                                                   ],
-                                                  "label": "04 - Brummen (Vierde uitgave). 1961"
+                                                  "label": "02 - Pannerden (Noord). 1931"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=450",
@@ -164,7 +164,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=450"
                                                             }
                                                   ],
-                                                  "label": "04 - Brummen (West). 1927"
+                                                  "label": "02 - Pannerden (Zuid). 1931"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=451",
@@ -234,7 +234,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=451"
                                                             }
                                                   ],
-                                                  "label": "05 - Zutfen, Noord. 1927"
+                                                  "label": "11 - Vianen (Oost). 1924"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=452",
@@ -304,7 +304,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=452"
                                                             }
                                                   ],
-                                                  "label": "05 - Zutfen, Zuid. 1927"
+                                                  "label": "11 - Vianen (West). 1924"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=453",
@@ -374,7 +374,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=453"
                                                             }
                                                   ],
-                                                  "label": "05 - Zutphen (Vierde uitgave). 1961"
+                                                  "label": "12 - Ameide (Oost). 1924"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=454",
@@ -444,7 +444,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=454"
                                                             }
                                                   ],
-                                                  "label": "06 - Gorsel, Noord. 1927"
+                                                  "label": "12 - Ameide (West). 1924"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=455",
@@ -514,7 +514,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=455"
                                                             }
                                                   ],
-                                                  "label": "06 - Gorsel, Zuid. 1927"
+                                                  "label": "13 - Schoonhoven (Oost). 1924"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=456",
@@ -584,7 +584,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=456"
                                                             }
                                                   ],
-                                                  "label": "06 - Gorssel. 1960"
+                                                  "label": "13 - Schoonhoven (West). 1924"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=457",
@@ -654,7 +654,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=457"
                                                             }
                                                   ],
-                                                  "label": "07 - Deventer (Oost). 1927"
+                                                  "label": "14 - Lekkerkerk (Oost). 1921"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=458",
@@ -724,7 +724,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=458"
                                                             }
                                                   ],
-                                                  "label": "07 - Deventer (West). 1927"
+                                                  "label": "14 - Lekkerkerk (West). 1921"
                                         }
                               ]
                     }

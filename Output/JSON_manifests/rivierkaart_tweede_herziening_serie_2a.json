@@ -94,7 +94,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=339"
                                                             }
                                                   ],
-                                                  "label": "21 - Brielle (Derde uitgave). 1945"
+                                                  "label": "01 - Gouda (Derde uitgave). 1935"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=340",
@@ -164,7 +164,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=340"
                                                             }
                                                   ],
-                                                  "label": "22 - Oostvoorne (Derde uitgave). 1945"
+                                                  "label": "01 - Gouda (Vierde uitgave). 1952"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=341",
@@ -234,7 +234,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=341"
                                                             }
                                                   ],
-                                                  "label": "01 - Herwen. 1917"
+                                                  "label": "02 - Moordrecht (Derde uitgave). 1935"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=342",
@@ -304,7 +304,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=342"
                                                             }
                                                   ],
-                                                  "label": "03 - Huussen. 1915"
+                                                  "label": "02 - Moordrecht (Vierde uitgave). 1952"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=343",
@@ -374,7 +374,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=343"
                                                             }
                                                   ],
-                                                  "label": "04 - Arnhem. 1916"
+                                                  "label": "03 - Kortenoord (Vierde uitgave). 1952"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=344",
@@ -444,7 +444,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=344"
                                                             }
                                                   ],
-                                                  "label": "05 - Renkum. 1917"
+                                                  "label": "03 - Kortenoord. 1933"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=345",
@@ -514,7 +514,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=345"
                                                             }
                                                   ],
-                                                  "label": "06 - Wageningen (Vierde uitgave). 1961"
+                                                  "label": "04 - Hitland (Vierde uitgave). 1952"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=346",
@@ -584,7 +584,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=346"
                                                             }
                                                   ],
-                                                  "label": "06 - Wageningen. 1918"
+                                                  "label": "04 - Hitland. 1933"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=347",
@@ -654,7 +654,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=347"
                                                             }
                                                   ],
-                                                  "label": "07 - Rhenen (Vierde uitgave). 1961"
+                                                  "label": "05 - Ouderkerk (Vierde uitgave). 1952"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=348",
@@ -724,7 +724,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=348"
                                                             }
                                                   ],
-                                                  "label": "07 - Rhenen. 1918"
+                                                  "label": "05 - Ouderkerk. 1933"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=349",
@@ -794,7 +794,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=349"
                                                             }
                                                   ],
-                                                  "label": "08 - Amerongen. 1920"
+                                                  "label": "06 - Krimpen (Vierde uitgave). 1952"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=350",
@@ -864,7 +864,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=350"
                                                             }
                                                   ],
-                                                  "label": "09 - Wijk bij Duurstede. 1919"
+                                                  "label": "06 - Krimpen. 1933"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=351",
@@ -934,7 +934,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=351"
                                                             }
                                                   ],
-                                                  "label": "10 - Culenborg. 1924"
+                                                  "label": "07 - Stormpolder (Vierde uitgave). 1936"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=352",
@@ -1004,7 +1004,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=352"
                                                             }
                                                   ],
-                                                  "label": "11 - Vianen (Vierde uitgave). 1961"
+                                                  "label": "07 - Stormpolder (Vijfde uitgave). 1954"
                                         }
                               ]
                     }

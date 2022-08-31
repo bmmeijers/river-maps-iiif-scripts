@@ -94,7 +94,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=111"
                                                             }
                                                   ],
-                                                  "label": "29a - Supplementair Blad Rossum(No. 29). 1859"
+                                                  "label": "00 - Titelblad met schets van de verdeeling der bladen. 1846"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=112",
@@ -164,7 +164,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=112"
                                                             }
                                                   ],
-                                                  "label": "30 - Driel. 1854"
+                                                  "label": "01 - Lage Zwaluwe. 1858"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=113",
@@ -234,7 +234,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=113"
                                                             }
                                                   ],
-                                                  "label": "31 - Ammerzoden. 1854"
+                                                  "label": "02 - Hooge Zwaluwe. 1858"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=114",
@@ -304,7 +304,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=114"
                                                             }
                                                   ],
-                                                  "label": "32 - Heusden. 1854"
+                                                  "label": "04 - 'sGravendeel. 1858"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=115",
@@ -374,7 +374,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=115"
                                                             }
                                                   ],
-                                                  "label": "33 - Wijk. 1854"
+                                                  "label": "05 - Lagenhof (Signaal). 1857"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=116",
@@ -444,7 +444,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=116"
                                                             }
                                                   ],
-                                                  "label": "33A - Supplement, behoorende bij Blad No. 33 Wijk. 1854"
+                                                  "label": "06 - Nieuwe dijk. 1857"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=117",
@@ -514,7 +514,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=117"
                                                             }
                                                   ],
-                                                  "label": "34 - Woudrichem. 1856"
+                                                  "label": "08 - Sliedrecht. 1858"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=118",
@@ -584,7 +584,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=118"
                                                             }
                                                   ],
-                                                  "label": "00 - Titelblad met schets van de verdeeling der bladen. 1846"
+                                                  "label": "09 - Giessendam. 1857"
                                         }
                               ]
                     }

@@ -94,7 +94,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=241"
                                                             }
                                                   ],
-                                                  "label": "16 - Vierlingsbeek. 1900"
+                                                  "label": "28 - Ammerzoden. 1908"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=242",
@@ -164,7 +164,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=242"
                                                             }
                                                   ],
-                                                  "label": "17 - Sambeek. 1900"
+                                                  "label": "29 - Waalwijk. 1909"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=243",
@@ -234,7 +234,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=243"
                                                             }
                                                   ],
-                                                  "label": "18 - Beugen. 1899"
+                                                  "label": "30 - Capelle. 1909"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=244",
@@ -304,7 +304,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=244"
                                                             }
                                                   ],
-                                                  "label": "19 - Cuyk. 1899"
+                                                  "label": "31 - Geertruidenberg. 1911"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=245",
@@ -374,7 +374,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=245"
                                                             }
                                                   ],
-                                                  "label": "20 - Linden. 1898"
+                                                  "label": "32 - Drimmelen. 1913"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=246",
@@ -444,7 +444,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=246"
                                                             }
                                                   ],
-                                                  "label": "21 - Grave. 1898"
+                                                  "label": "33 - Zwaluwe. 1913"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=247",
@@ -514,7 +514,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=247"
                                                             }
                                                   ],
-                                                  "label": "22 - Ravenstein. 1897"
+                                                  "label": "34 - Moerdijk (Tweede uitgave). 1914"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=248",
@@ -584,7 +584,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=248"
                                                             }
                                                   ],
-                                                  "label": "23 - Megen. 1898"
+                                                  "label": "S1 - Poederoijen. 1908"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=249",
@@ -654,7 +654,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=249"
                                                             }
                                                   ],
-                                                  "label": "15 - Geysteren. 1901"
+                                                  "label": "S1 - \u2019s-Gravendeel. 1880"
                                         },
                                         {
                                                   "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=250",
@@ -724,7 +724,7 @@
                                                                       "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=250"
                                                             }
                                                   ],
-                                                  "label": "24 - Lith. 1898"
+                                                  "label": "S2 - \u2019s-Gravemoer. 1910"
                                         }
                               ]
                     }
