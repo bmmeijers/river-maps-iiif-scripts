@@ -6,13 +6,11 @@ import rect_coordinate
 import json
 import requests
 import string
+from directories import *
 from pandas.io.json import json_normalize
 
 nonalpha = string.digits + string.punctuation + string.whitespace
 
-rootdir = "C:/Users/kevin/OneDrive/Documents/Werk/Dataviz/detect_map_rectangle/rivierkaart/geogegevens"
-jsondir = "Source_data/rivierkaart/kaartseries-vu/rivierkaart.json"
-csvdir = "Source_data/rivierkaart/csv/rivierkaart-dlcs.csv"
 
 dlcs_query = "https://dlc.services/iiif-resource/7/string1string2string3/"
 
