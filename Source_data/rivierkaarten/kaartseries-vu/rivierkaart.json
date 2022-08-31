@@ -117,7 +117,7 @@
     "is_based_on": null,
     "base_sheet_id": 517,
     "base_set_id": 11,
-    "titel": "Voorstelling van rivierstanden en noodpeilen, aan de peilschalen langs de rivieren de Boven-Rijn, Neder-Rijn eerste_druk/Serie_1/00 Voorstelling Nieuwe Merwede_Hollandsch Diep en Haringvliet van Gorinchem tot Hellevoetsluis.1863.jpgen Geldersche Ijssel van Emmerik tot de Zuiderzee : de Nieuwe Merwede, het Hollandsch Diep en Haringvliet van Gorinchem tot Hellevoetsluis",
+    "titel": "Voorstelling van Rivierstanden en Noodpeilen, aan de peilschalen langs de rivieren de Boven-Rijn, Waal, Merwede, Oude- en Nieuwe Maas van Emmerik tot Brielle.",
     "display_title": "00B - Voorstelling van rivierstanden en noodpeilen, aan de peilschalen langs de rivieren de Boven-Rijn, Neder-Rijn eerste_druk/Serie_1/00 Voorstelling Nieuwe Merwede_Hollandsch Diep en Haringvliet van Gorinchem tot Hellevoetsluis.1863.jpgen Geldersche Ijssel van Emmerik tot de Zuiderzee : de Nieuwe Merwede, het Hollandsch Diep en Haringvliet van Gorinchem tot Hellevoetsluis. 1863",
     "nummer": "00B",
     "uitgever": null,
@@ -227,7 +227,7 @@
     "is_based_on": null,
     "base_sheet_id": 518,
     "base_set_id": 11,
-    "titel": "Voorstelling van rivierstanden en noodpeilen, aan de peilschalen langs de rivieren de Boven-Rijn, Neder-Rijn en Geldersche Ijssel van Emmerik tot de Zuiderzee : Linge en Kanaal van Steenenhoek",
+    "titel": "Voorstelling van Rivierstanden en Noodpeilen, aan de peilschalen langs de rivieren de Boven-Rijn, Neder-Rijn, Lek, Nieuwe-Maas en Scheur van Emmerik tot aan zee",
     "display_title": "00C - Voorstelling van rivierstanden en noodpeilen, aan de peilschalen langs de rivieren de Boven-Rijn, Neder-Rijn en Geldersche Ijssel van Emmerik tot de Zuiderzee : Linge en Kanaal van Steenenhoek. 1863",
     "nummer": "00C",
     "uitgever": null,
@@ -337,7 +337,7 @@
     "is_based_on": null,
     "base_sheet_id": 519,
     "base_set_id": 11,
-    "titel": "Voorstelling van rivierstanden en noodpeilen, aan de peilschalen langs de rivieren de Boven-Rijn, Neder-Rijn en Geldersche Ijssel van Emmerik tot de Zuiderzee : Vecht en Zwarte Water van de mond der Regge tot Kraggenburg",
+    "titel": "Voorstelling van Rivierstanden en Noodpeilen, aan de peilschalen langs de rivieren de Boven-Rijn, Neder-Rijn en Geldersche IJssel van Emmerik tot de Zuiderzee",
     "display_title": "00D - Voorstelling van rivierstanden en noodpeilen, aan de peilschalen langs de rivieren de Boven-Rijn, Neder-Rijn en Geldersche Ijssel van Emmerik tot de Zuiderzee : Vecht en Zwarte Water van de mond der Regge tot Kraggenburg. 1863",
     "nummer": "00D",
     "uitgever": null,
@@ -3038,21 +3038,7 @@
         "created_at": "2019-08-14T14:51:32.097Z",
         "updated_at": "2019-08-14T14:51:32.097Z",
         "volgnummer": null,
-        "electronic_versions": [
-          {
-            "id": 1416,
-            "repository_url": "https://www.rijkswaterstaat.nl/apps/geoservices/geodata/dmc/rivierkaart/geogegevens/eerste_druk/Serie_2/18 Vlaardingen. 1834.jpg",
-            "service_type": "image_url",
-            "ogc_web_service_id": null,
-            "repository_id": 1,
-            "copy_id": 2496,
-            "created_at": "2019-08-14T14:51:32.103Z",
-            "updated_at": "2019-08-14T14:51:32.103Z",
-            "iiif_id": null,
-            "local_id": null,
-            "dzi": null
-          }
-        ],
+        "electronic_versions": [],
         "provenance": {
           "id": 4,
           "name": "Onbekend",
@@ -3178,21 +3164,7 @@
         "created_at": "2019-08-14T14:51:20.624Z",
         "updated_at": "2019-08-14T14:51:20.624Z",
         "volgnummer": null,
-        "electronic_versions": [
-          {
-            "id": 1251,
-            "repository_url": "https://www.rijkswaterstaat.nl/apps/geoservices/geodata/dmc/rivierkaart/geogegevens/eerste_druk/Serie_2/19 Maassluis. 1835.jpg",
-            "service_type": "image_url",
-            "ogc_web_service_id": null,
-            "repository_id": 1,
-            "copy_id": 2243,
-            "created_at": "2019-08-14T14:51:20.631Z",
-            "updated_at": "2019-08-14T14:51:20.631Z",
-            "iiif_id": null,
-            "local_id": null,
-            "dzi": null
-          }
-        ],
+        "electronic_versions": [],
         "provenance": {
           "id": 4,
           "name": "Onbekend",
@@ -3318,21 +3290,7 @@
         "created_at": "2019-08-14T14:51:07.308Z",
         "updated_at": "2019-08-14T14:51:07.308Z",
         "volgnummer": null,
-        "electronic_versions": [
-          {
-            "id": 1061,
-            "repository_url": "https://www.rijkswaterstaat.nl/apps/geoservices/geodata/dmc/rivierkaart/geogegevens/eerste_druk/Serie_2/20 Brielle. 1835.jpg",
-            "service_type": "image_url",
-            "ogc_web_service_id": null,
-            "repository_id": 1,
-            "copy_id": 1973,
-            "created_at": "2019-08-14T14:51:07.315Z",
-            "updated_at": "2019-08-14T14:51:07.315Z",
-            "iiif_id": null,
-            "local_id": null,
-            "dzi": null
-          }
-        ],
+        "electronic_versions": [],
         "provenance": {
           "id": 4,
           "name": "Onbekend",
@@ -6420,7 +6378,21 @@
         "created_at": "2019-08-14T14:51:32.164Z",
         "updated_at": "2019-08-14T14:51:32.164Z",
         "volgnummer": null,
-        "electronic_versions": [],
+        "electronic_versions": [
+          {
+            "id": 1416,
+            "repository_url": "https://www.rijkswaterstaat.nl/apps/geoservices/geodata/dmc/rivierkaart/geogegevens/eerste_druk/Serie_2/18 Vlaardingen. 1834.jpg",
+            "service_type": "image_url",
+            "ogc_web_service_id": null,
+            "repository_id": 1,
+            "copy_id": 2496,
+            "created_at": "2019-08-14T14:51:32.103Z",
+            "updated_at": "2019-08-14T14:51:32.103Z",
+            "iiif_id": null,
+            "local_id": null,
+            "dzi": null
+          }
+        ],
         "provenance": {
           "id": 2,
           "name": "Nugter",
@@ -6516,7 +6488,21 @@
         "created_at": "2019-08-14T14:51:20.715Z",
         "updated_at": "2019-08-14T14:51:20.715Z",
         "volgnummer": null,
-        "electronic_versions": [],
+        "electronic_versions": [
+          {
+            "id": 1251,
+            "repository_url": "https://www.rijkswaterstaat.nl/apps/geoservices/geodata/dmc/rivierkaart/geogegevens/eerste_druk/Serie_2/19 Maassluis. 1835.jpg",
+            "service_type": "image_url",
+            "ogc_web_service_id": null,
+            "repository_id": 1,
+            "copy_id": 2243,
+            "created_at": "2019-08-14T14:51:20.631Z",
+            "updated_at": "2019-08-14T14:51:20.631Z",
+            "iiif_id": null,
+            "local_id": null,
+            "dzi": null
+          } 
+        ],
         "provenance": {
           "id": 2,
           "name": "Nugter",
@@ -6612,7 +6598,21 @@
         "created_at": "2019-08-14T14:51:07.372Z",
         "updated_at": "2019-08-14T14:51:07.372Z",
         "volgnummer": null,
-        "electronic_versions": [],
+        "electronic_versions": [
+          {
+            "id": 1061,
+            "repository_url": "https://www.rijkswaterstaat.nl/apps/geoservices/geodata/dmc/rivierkaart/geogegevens/eerste_druk/Serie_2/20 Brielle. 1835.jpg",
+            "service_type": "image_url",
+            "ogc_web_service_id": null,
+            "repository_id": 1,
+            "copy_id": 1973,
+            "created_at": "2019-08-14T14:51:07.315Z",
+            "updated_at": "2019-08-14T14:51:07.315Z",
+            "iiif_id": null,
+            "local_id": null,
+            "dzi": null
+          }
+        ],
         "provenance": {
           "id": 2,
           "name": "Nugter",
