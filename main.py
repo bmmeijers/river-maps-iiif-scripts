@@ -10,7 +10,7 @@ from pandas.io.json import json_normalize
 
 nonalpha = string.digits + string.punctuation + string.whitespace
 
-rootdir = "Source_data/rivierkaart/geogegevens"
+rootdir = "C:/Users/kevin/OneDrive/Documents/Werk/Dataviz/detect_map_rectangle/rivierkaart/geogegevens"
 jsondir = "Source_data/rivierkaart/kaartseries-vu/rivierkaart.json"
 csvdir = "Source_data/rivierkaart/csv/rivierkaart-dlcs.csv"
 
