@@ -106,6 +106,6 @@
       "@id": "https://raw.githubusercontent.com/tu-delft-library/rivierkaarten-iiif/main/output/JSON_manifests/rivierkaart_vassen-herziening_serie_2.json",
       "@type": "sc:Manifest",
       "label": "Vlassen Revision, Series 2"
-    },
+    }
   ]
 }
