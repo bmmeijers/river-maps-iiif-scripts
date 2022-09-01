@@ -929,3 +929,4 @@ rivierkaart/geogegevens/eerste_druk/Serie_1/00-Voorstelling-Nieuwe-Merwede-Holla
 rivierkaart/geogegevens/eerste_druk/Serie_1/00-Kaart-Bovenrijn-Waal-Merwede-de-Oude-en-een-gedeelte-Nieuwe-Maas-van-Lobith-tot-Brielle.jpg
 *.jpg
 directories.py
+*.DS_Store
