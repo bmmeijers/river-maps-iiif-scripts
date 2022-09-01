@@ -1,0 +1,111 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/tu-delft-library/rivierkaarten-iiif/main/quick-iiif-collection.json",
+  "@type": "sc:Collection",
+  "label": "Rivierkaart",
+  "viewingHint": "top",
+  "description": "Description of Collection",
+  "attribution": "Rijkswaterstaat",
+  "manifests": [
+    {
+      "@id": "https://raw.githubusercontent.com/tu-delft-library/rivierkaarten-iiif/main/output/JSON_manifests/rivierkaart_eerste_druk_serie_1.json",
+      "@type": "sc:Manifest",
+      "label": "First Edition, Series 1"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/tu-delft-library/rivierkaarten-iiif/main/output/JSON_manifests/rivierkaart_eerste_druk_serie_2.json",
+      "@type": "sc:Manifest",
+      "label": "First Edition, Series 2"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/tu-delft-library/rivierkaarten-iiif/main/output/JSON_manifests/rivierkaart_eerste_druk_serie_3.json",
+      "@type": "sc:Manifest",
+      "label": "First Edition, Series 3"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/tu-delft-library/rivierkaarten-iiif/main/output/JSON_manifests/rivierkaart_eerste_druk_serie_4.json",
+      "@type": "sc:Manifest",
+      "label": "First Edition, Series 4"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/tu-delft-library/rivierkaarten-iiif/main/output/JSON_manifests/rivierkaart_eerste_druk_serie_5.json",
+      "@type": "sc:Manifest",
+      "label": "First Edition, Series 5"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/tu-delft-library/rivierkaarten-iiif/main/output/JSON_manifests/rivierkaart_eerste_druk_serie_6.json",
+      "@type": "sc:Manifest",
+      "label": "First Edition, Series 6"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/tu-delft-library/rivierkaarten-iiif/main/output/JSON_manifests/rivierkaart_eerste_herziening_serie_1.json",
+      "@type": "sc:Manifest",
+      "label": "First Revision, Series 1"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/tu-delft-library/rivierkaarten-iiif/main/output/JSON_manifests/rivierkaart_eerste_herziening_serie_2.json",
+      "@type": "sc:Manifest",
+      "label": "First Revision, Series 2"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/tu-delft-library/rivierkaarten-iiif/main/output/JSON_manifests/rivierkaart_eerste_herziening_serie_3.json",
+      "@type": "sc:Manifest",
+      "label": "First Revision, Series 3"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/tu-delft-library/rivierkaarten-iiif/main/output/JSON_manifests/rivierkaart_eerste_herziening_serie_4_en_5.json",
+      "@type": "sc:Manifest",
+      "label": "First Revision, Series 4 & 5"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/tu-delft-library/rivierkaarten-iiif/main/output/JSON_manifests/rivierkaart_eerste_herziening_serie_6.json",
+      "@type": "sc:Manifest",
+      "label": "First Revision, Series 6"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/tu-delft-library/rivierkaarten-iiif/main/output/JSON_manifests/rivierkaart_eerste_herziening_serie_7.json",
+      "@type": "sc:Manifest",
+      "label": "First Revision, Series 7"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/tu-delft-library/rivierkaarten-iiif/main/output/JSON_manifests/rivierkaart_eerste_herziening_serie_8.json",
+      "@type": "sc:Manifest",
+      "label": "First Revision, Series 8"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/tu-delft-library/rivierkaarten-iiif/main/output/JSON_manifests/rivierkaart_tweede_herziening_serie_1.json",
+      "@type": "sc:Manifest",
+      "label": "Second Revision, Series 1"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/tu-delft-library/rivierkaarten-iiif/main/output/JSON_manifests/rivierkaart_tweede_herziening_serie_2.json",
+      "@type": "sc:Manifest",
+      "label": "Second Revision, Series 2"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/tu-delft-library/rivierkaarten-iiif/main/output/JSON_manifests/rivierkaart_tweede_herziening_serie_2a.json",
+      "@type": "sc:Manifest",
+      "label": "Second Revision, Series 2a"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/tu-delft-library/rivierkaarten-iiif/main/output/JSON_manifests/rivierkaart_tweede_herziening_serie_3.json",
+      "@type": "sc:Manifest",
+      "label": "Second Revision, Series 3"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/tu-delft-library/rivierkaarten-iiif/main/output/JSON_manifests/rivierkaart_tweede_herziening_serie_4.json",
+      "@type": "sc:Manifest",
+      "label": "Second Revision, Series 4"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/tu-delft-library/rivierkaarten-iiif/main/output/JSON_manifests/rivierkaart_vassen-herziening_serie_1.json",
+      "@type": "sc:Manifest",
+      "label": "Vlassen Revision, Series 1"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/tu-delft-library/rivierkaarten-iiif/main/output/JSON_manifests/rivierkaart_vassen-herziening_serie_2.json",
+      "@type": "sc:Manifest",
+      "label": "Vlassen Revision, Series 2"
+    },
+  ]
+}
