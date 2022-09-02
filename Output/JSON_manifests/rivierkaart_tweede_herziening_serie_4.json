@@ -2,6 +2,7 @@
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://dlc.services/iiif-resource/7/string1string2string3/rivierkaart/3/4",
           "@type": "sc:Manifest",
+          "label": "Tweede herziening, Serie 4",
           "metadata": [
                     {
                               "label": "Title",

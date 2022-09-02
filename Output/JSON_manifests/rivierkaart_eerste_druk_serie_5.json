@@ -2,6 +2,7 @@
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://dlc.services/iiif-resource/7/string1string2string3/rivierkaart/1/5",
           "@type": "sc:Manifest",
+          "label": "Eerste druk, Serie 5",
           "metadata": [
                     {
                               "label": "Title",
