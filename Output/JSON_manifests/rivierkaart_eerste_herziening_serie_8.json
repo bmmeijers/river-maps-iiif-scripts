@@ -165,7 +165,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=252"
                         }
                     ],
-                    "label": "01 - Gouda. 1902"
+                    "label": "01. Gouda (1902)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=253",
@@ -235,7 +235,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=253"
                         }
                     ],
-                    "label": "01 - Gouda. 1902"
+                    "label": "01. Gouda (1902)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=254",
@@ -305,7 +305,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=254"
                         }
                     ],
-                    "label": "01 - Gouda. 1902"
+                    "label": "01. Gouda (1902)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=255",
@@ -375,7 +375,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=255"
                         }
                     ],
-                    "label": "02 - Beijersche Veer. 1902"
+                    "label": "02. Beijersche Veer (1902)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=256",
@@ -445,7 +445,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=256"
                         }
                     ],
-                    "label": "02 - Beijersche Veer. 1902"
+                    "label": "02. Beijersche Veer (1902)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=257",
@@ -515,7 +515,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=257"
                         }
                     ],
-                    "label": "02 - Beijersche Veer. 1902"
+                    "label": "02. Beijersche Veer (1902)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=258",
@@ -585,7 +585,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=258"
                         }
                     ],
-                    "label": "03 - Moordrecht. 1904"
+                    "label": "03. Moordrecht (1904)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=259",
@@ -655,7 +655,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=259"
                         }
                     ],
-                    "label": "04 - De Snelle. 1905"
+                    "label": "04. De Snelle (1905)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=260",
@@ -725,7 +725,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=260"
                         }
                     ],
-                    "label": "04 - De Snelle. 1905"
+                    "label": "04. De Snelle (1905)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=261",
@@ -795,7 +795,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=261"
                         }
                     ],
-                    "label": "05 - Kortenoord. 1904"
+                    "label": "05. Kortenoord (1904)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=262",
@@ -865,7 +865,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=262"
                         }
                     ],
-                    "label": "06 - Groot Hitland. 1905"
+                    "label": "06. Groot Hitland (1905)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=263",
@@ -935,7 +935,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=263"
                         }
                     ],
-                    "label": "06 - Groot Hitland. 1915"
+                    "label": "06. Groot Hitland (1915)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=264",
@@ -1005,7 +1005,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=264"
                         }
                     ],
-                    "label": "07 - Ouderkerk. 1906"
+                    "label": "07. Ouderkerk (1906)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=265",
@@ -1075,7 +1075,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=265"
                         }
                     ],
-                    "label": "07 - Ouderkerk. 1924"
+                    "label": "07. Ouderkerk (1924)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=266",
@@ -1145,7 +1145,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=266"
                         }
                     ],
-                    "label": "08 - Capelle. 1906"
+                    "label": "08. Capelle (1906)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=267",
@@ -1215,7 +1215,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=267"
                         }
                     ],
-                    "label": "08 - Capelle. 1924"
+                    "label": "08. Capelle (1924)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=268",
@@ -1285,7 +1285,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=268"
                         }
                     ],
-                    "label": "09 - Krimpen. 1907"
+                    "label": "09. Krimpen (1907)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=269",
@@ -1355,7 +1355,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=269"
                         }
                     ],
-                    "label": "10 - Stormpolder. 1907"
+                    "label": "10. Stormpolder (1907)"
                 }
             ]
         }

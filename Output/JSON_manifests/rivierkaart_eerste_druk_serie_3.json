@@ -95,7 +95,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=47"
                         }
                     ],
-                    "label": "00 - Titelblad met bladwijzer en verklaring van de zamenstelling der kaart. 1846"
+                    "label": "00. Titelblad met bladwijzer en verklaring van de zamenstelling der kaart (1846)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=48",
@@ -165,7 +165,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=48"
                         }
                     ],
-                    "label": "01 - Westervoort. 1844"
+                    "label": "01. Westervoort (1844)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=49",
@@ -235,7 +235,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=49"
                         }
                     ],
-                    "label": "02 - Rhede. 1844"
+                    "label": "02. Rhede (1844)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=50",
@@ -305,7 +305,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=50"
                         }
                     ],
-                    "label": "03 - Doesburg. 1843"
+                    "label": "03. Doesburg (1843)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=51",
@@ -375,7 +375,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=51"
                         }
                     ],
-                    "label": "04 - Steenderen. 1843"
+                    "label": "04. Steenderen (1843)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=52",
@@ -445,7 +445,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=52"
                         }
                     ],
-                    "label": "04A - Supplement tot het blad Steenderen. 1843"
+                    "label": "04A. Supplement tot het blad Steenderen (1843)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=53",
@@ -515,7 +515,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=53"
                         }
                     ],
-                    "label": "05 - Brummen. 1843"
+                    "label": "05. Brummen (1843)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=54",
@@ -585,7 +585,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=54"
                         }
                     ],
-                    "label": "06 - Zutphen. 1843"
+                    "label": "06. Zutphen (1843)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=55",
@@ -655,7 +655,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=55"
                         }
                     ],
-                    "label": "07 - Gorssel. 1843"
+                    "label": "07. Gorssel (1843)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=56",
@@ -725,7 +725,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=56"
                         }
                     ],
-                    "label": "07A - Supplement tot het blad Gorssel. 1843"
+                    "label": "07A. Supplement tot het blad Gorssel (1843)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=57",
@@ -795,7 +795,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=57"
                         }
                     ],
-                    "label": "08 - Deventer. 1843"
+                    "label": "08. Deventer (1843)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=58",
@@ -865,7 +865,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=58"
                         }
                     ],
-                    "label": "09 - Olst. 1843"
+                    "label": "09. Olst (1843)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=59",
@@ -935,7 +935,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=59"
                         }
                     ],
-                    "label": "10 - Wijhe. 1843"
+                    "label": "10. Wijhe (1843)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=60",
@@ -1005,7 +1005,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=60"
                         }
                     ],
-                    "label": "11 - Hattem. 1843"
+                    "label": "11. Hattem (1843)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=61",
@@ -1075,7 +1075,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=61"
                         }
                     ],
-                    "label": "12 - Zwolle. 1844"
+                    "label": "12. Zwolle (1844)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=62",
@@ -1145,7 +1145,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=62"
                         }
                     ],
-                    "label": "13 - Zalk. 1843"
+                    "label": "13. Zalk (1843)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=63",
@@ -1215,7 +1215,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=63"
                         }
                     ],
-                    "label": "14 - Oosterwolde. 1846"
+                    "label": "14. Oosterwolde (1846)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=64",
@@ -1285,7 +1285,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=64"
                         }
                     ],
-                    "label": "15 - Kampen. 1846"
+                    "label": "15. Kampen (1846)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=65",
@@ -1355,7 +1355,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=65"
                         }
                     ],
-                    "label": "15A - Supplementair Blad, behoorende tot het blad No. 15, Kampen. 1846"
+                    "label": "15A. Supplementair Blad, behoorende tot het blad No. 15, Kampen (1846)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=66",
@@ -1425,7 +1425,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=66"
                         }
                     ],
-                    "label": "16 - Lutterzijl. 1846"
+                    "label": "16. Lutterzijl (1846)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=67",
@@ -1495,7 +1495,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=67"
                         }
                     ],
-                    "label": "17 - Mastenbroek.. 1846"
+                    "label": "17. Mastenbroek. (1846)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=68",
@@ -1565,7 +1565,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=68"
                         }
                     ],
-                    "label": "18 - Genemuiden. 1847"
+                    "label": "18. Genemuiden (1847)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=69",
@@ -1635,7 +1635,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=69"
                         }
                     ],
-                    "label": "18A - Papillot, behoorende bij het blad No. 18. 1847"
+                    "label": "18A. Papillot, behoorende bij het blad No. 18 (1847)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=70",
@@ -1705,7 +1705,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=70"
                         }
                     ],
-                    "label": "19 - Zwartsluis. 1844"
+                    "label": "19. Zwartsluis (1844)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=71",
@@ -1775,7 +1775,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=71"
                         }
                     ],
-                    "label": "20 - Hasselt. 1844"
+                    "label": "20. Hasselt (1844)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=72",
@@ -1845,7 +1845,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=72"
                         }
                     ],
-                    "label": "S1 - Supplementair Blad. Voorst.. 1843"
+                    "label": "S1. Supplementair Blad. Voorst. (1843)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=73",
@@ -1915,7 +1915,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=73"
                         }
                     ],
-                    "label": "S2 - Dalfsen. 1843"
+                    "label": "S2. Dalfsen (1843)"
                 }
             ]
         }

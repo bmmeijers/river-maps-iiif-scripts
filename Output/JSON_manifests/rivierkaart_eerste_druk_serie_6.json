@@ -95,7 +95,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=119"
                         }
                     ],
-                    "label": "01 - Gouda. 1860"
+                    "label": "01. Gouda (1860)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=120",
@@ -165,7 +165,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=120"
                         }
                     ],
-                    "label": "02 - Nieuwerkerk. 1860"
+                    "label": "02. Nieuwerkerk (1860)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=121",
@@ -235,7 +235,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=121"
                         }
                     ],
-                    "label": "03 - Ouderkerk. 1860"
+                    "label": "03. Ouderkerk (1860)"
                 }
             ]
         }

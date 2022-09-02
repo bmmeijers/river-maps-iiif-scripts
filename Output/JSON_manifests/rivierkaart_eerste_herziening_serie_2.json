@@ -95,7 +95,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=156"
                         }
                     ],
-                    "label": "00 - Titelblad. 1838"
+                    "label": "00. Titelblad (1838)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=157",
@@ -165,7 +165,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=157"
                         }
                     ],
-                    "label": "01 - Schenkenschans. 1874"
+                    "label": "01. Schenkenschans (1874)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=158",
@@ -235,7 +235,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=158"
                         }
                     ],
-                    "label": "02 - Kekerdom. 1873"
+                    "label": "02. Kekerdom (1873)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=159",
@@ -305,7 +305,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=159"
                         }
                     ],
-                    "label": "03 - Angeren. 1876"
+                    "label": "03. Angeren (1876)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=160",
@@ -375,7 +375,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=160"
                         }
                     ],
-                    "label": "04 - Westervoort. 1877"
+                    "label": "04. Westervoort (1877)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=161",
@@ -445,7 +445,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=161"
                         }
                     ],
-                    "label": "05 - Arnhem. 1881"
+                    "label": "05. Arnhem (1881)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=162",
@@ -515,7 +515,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=162"
                         }
                     ],
-                    "label": "06 - Heteren. 1881"
+                    "label": "06. Heteren (1881)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=163",
@@ -585,7 +585,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=163"
                         }
                     ],
-                    "label": "07 - Opheusden. 1881"
+                    "label": "07. Opheusden (1881)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=164",
@@ -655,7 +655,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=164"
                         }
                     ],
-                    "label": "08 - Rheenen. 1881"
+                    "label": "08. Rheenen (1881)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=165",
@@ -725,7 +725,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=165"
                         }
                     ],
-                    "label": "09 - Maurik. 1882"
+                    "label": "09. Maurik (1882)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=166",
@@ -795,7 +795,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=166"
                         }
                     ],
-                    "label": "10 - Wijk bij Duurstede. 1882"
+                    "label": "10. Wijk bij Duurstede (1882)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=167",
@@ -865,7 +865,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=167"
                         }
                     ],
-                    "label": "11 - Culemborg. 1882"
+                    "label": "11. Culemborg (1882)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=168",
@@ -935,7 +935,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=168"
                         }
                     ],
-                    "label": "12 - Hagestein. 1882"
+                    "label": "12. Hagestein (1882)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=169",
@@ -1005,7 +1005,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=169"
                         }
                     ],
-                    "label": "13 - Vianen. 1883"
+                    "label": "13. Vianen (1883)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=170",
@@ -1075,7 +1075,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=170"
                         }
                     ],
-                    "label": "14 - Ameide. 1883"
+                    "label": "14. Ameide (1883)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=171",
@@ -1145,7 +1145,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=171"
                         }
                     ],
-                    "label": "15 - Schoonhoven. 1883"
+                    "label": "15. Schoonhoven (1883)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=172",
@@ -1215,7 +1215,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=172"
                         }
                     ],
-                    "label": "16 - Lekkerkerk. 1883"
+                    "label": "16. Lekkerkerk (1883)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=173",
@@ -1285,7 +1285,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=173"
                         }
                     ],
-                    "label": "17 - Krimpen aan de Lek (Tweede uitgave). 1907"
+                    "label": "17. Krimpen aan de Lek (Tweede uitgave, 1907)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=174",
@@ -1355,7 +1355,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=174"
                         }
                     ],
-                    "label": "17 - Krimpen a/d Lek. 1879"
+                    "label": "17. Krimpen a/d Lek (1879)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=175",
@@ -1425,7 +1425,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=175"
                         }
                     ],
-                    "label": "18 - Rotterdam (Tweede uitgave). 1904"
+                    "label": "18. Rotterdam (Tweede uitgave, 1904)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=176",
@@ -1495,7 +1495,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=176"
                         }
                     ],
-                    "label": "18 - Rotterdam. 1880"
+                    "label": "18. Rotterdam (1880)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=177",
@@ -1565,7 +1565,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=177"
                         }
                     ],
-                    "label": "19 - Vlaardingen (Tweede uitgave). 1906"
+                    "label": "19. Vlaardingen (Tweede uitgave, 1906)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=178",
@@ -1635,7 +1635,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=178"
                         }
                     ],
-                    "label": "19 - Vlaardingen. 1881"
+                    "label": "19. Vlaardingen (1881)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=179",
@@ -1705,7 +1705,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=179"
                         }
                     ],
-                    "label": "20 - Maassluis (Tweede uitgave). 1903"
+                    "label": "20. Maassluis (Tweede uitgave, 1903)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=180",
@@ -1775,7 +1775,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=180"
                         }
                     ],
-                    "label": "20 - Maassluis. 1880"
+                    "label": "20. Maassluis (1880)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=181",
@@ -1845,7 +1845,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=181"
                         }
                     ],
-                    "label": "21 - De Lier (Tweede uitgave). 1881"
+                    "label": "21. De Lier (Tweede uitgave, 1881)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=182",
@@ -1915,7 +1915,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=182"
                         }
                     ],
-                    "label": "21 - De Lier. 1881"
+                    "label": "21. De Lier (1881)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=183",
@@ -1985,7 +1985,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=183"
                         }
                     ],
-                    "label": "22 - Hoek van Holland (Tweede uitgave). 1906"
+                    "label": "22. Hoek van Holland (Tweede uitgave, 1906)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=184",
@@ -2055,7 +2055,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=184"
                         }
                     ],
-                    "label": "22 - Hoek van Holland. 1881"
+                    "label": "22. Hoek van Holland (1881)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=185",
@@ -2125,7 +2125,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=185"
                         }
                     ],
-                    "label": "S1 - Supplement : Aerdt. 1887"
+                    "label": "S1. Supplement : Aerdt (1887)"
                 }
             ]
         }

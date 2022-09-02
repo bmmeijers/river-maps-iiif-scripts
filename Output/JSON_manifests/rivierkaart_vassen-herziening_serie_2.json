@@ -95,7 +95,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=449"
                         }
                     ],
-                    "label": "02 - Pannerden (Noord). 1931"
+                    "label": "02. Pannerden (Noord) (1931)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=450",
@@ -165,7 +165,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=450"
                         }
                     ],
-                    "label": "02 - Pannerden (Zuid). 1931"
+                    "label": "02. Pannerden (Zuid) (1931)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=451",
@@ -235,7 +235,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=451"
                         }
                     ],
-                    "label": "11 - Vianen (Oost). 1924"
+                    "label": "11. Vianen (Oost) (1924)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=452",
@@ -305,7 +305,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=452"
                         }
                     ],
-                    "label": "11 - Vianen (West). 1924"
+                    "label": "11. Vianen (West) (1924)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=453",
@@ -375,7 +375,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=453"
                         }
                     ],
-                    "label": "12 - Ameide (Oost). 1924"
+                    "label": "12. Ameide (Oost) (1924)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=454",
@@ -445,7 +445,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=454"
                         }
                     ],
-                    "label": "12 - Ameide (West). 1924"
+                    "label": "12. Ameide (West) (1924)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=455",
@@ -515,7 +515,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=455"
                         }
                     ],
-                    "label": "13 - Schoonhoven (Oost). 1924"
+                    "label": "13. Schoonhoven (Oost) (1924)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=456",
@@ -585,7 +585,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=456"
                         }
                     ],
-                    "label": "13 - Schoonhoven (West). 1924"
+                    "label": "13. Schoonhoven (West) (1924)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=457",
@@ -655,7 +655,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=457"
                         }
                     ],
-                    "label": "14 - Lekkerkerk (Oost). 1921"
+                    "label": "14. Lekkerkerk (Oost) (1921)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=458",
@@ -725,7 +725,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=458"
                         }
                     ],
-                    "label": "14 - Lekkerkerk (West). 1921"
+                    "label": "14. Lekkerkerk (West) (1921)"
                 }
             ]
         }

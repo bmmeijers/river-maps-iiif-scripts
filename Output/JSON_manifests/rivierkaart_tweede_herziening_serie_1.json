@@ -95,7 +95,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=270"
                         }
                     ],
-                    "label": "01 - Lobith (Vierde uitgave). 1960"
+                    "label": "01. Lobith (Vierde uitgave, 1960)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=271",
@@ -165,7 +165,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=271"
                         }
                     ],
-                    "label": "01 - Lobith. 1917"
+                    "label": "01. Lobith (1917)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=272",
@@ -235,7 +235,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=272"
                         }
                     ],
-                    "label": "02 - Millingen (Vierde uitgave). 1961"
+                    "label": "02. Millingen (Vierde uitgave, 1961)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=273",
@@ -305,7 +305,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=273"
                         }
                     ],
-                    "label": "02 - Millingen. 1914"
+                    "label": "02. Millingen (1914)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=274",
@@ -375,7 +375,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=274"
                         }
                     ],
-                    "label": "03 - Kekerdom (Vierde uitgave). 1960"
+                    "label": "03. Kekerdom (Vierde uitgave, 1960)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=275",
@@ -445,7 +445,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=275"
                         }
                     ],
-                    "label": "03 - Kekerdom. 1920"
+                    "label": "03. Kekerdom (1920)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=276",
@@ -515,7 +515,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=276"
                         }
                     ],
-                    "label": "04 - Nijmegen. 1920"
+                    "label": "04. Nijmegen (1920)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=277",
@@ -585,7 +585,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=277"
                         }
                     ],
-                    "label": "05 - Herveld. 1923"
+                    "label": "05. Herveld (1923)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=278",
@@ -655,7 +655,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=278"
                         }
                     ],
-                    "label": "06 - Dodewaard (Vierde uitgave). 1960"
+                    "label": "06. Dodewaard (Vierde uitgave, 1960)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=279",
@@ -725,7 +725,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=279"
                         }
                     ],
-                    "label": "06 - Dodewaard. 1921"
+                    "label": "06. Dodewaard (1921)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=280",
@@ -795,7 +795,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=280"
                         }
                     ],
-                    "label": "07 - Leeuwen (Vierde uitgave). 1961"
+                    "label": "07. Leeuwen (Vierde uitgave, 1961)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=281",
@@ -865,7 +865,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=281"
                         }
                     ],
-                    "label": "07 - Leeuwen. 1923"
+                    "label": "07. Leeuwen (1923)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=282",
@@ -935,7 +935,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=282"
                         }
                     ],
-                    "label": "08 - Tiel (Vierde uitgave). 1961"
+                    "label": "08. Tiel (Vierde uitgave, 1961)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=283",
@@ -1005,7 +1005,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=283"
                         }
                     ],
-                    "label": "08 - Tiel. 1924"
+                    "label": "08. Tiel (1924)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=284",
@@ -1075,7 +1075,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=284"
                         }
                     ],
-                    "label": "09 - Varik (Vierde uitgave). 1960"
+                    "label": "09. Varik (Vierde uitgave, 1960)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=285",
@@ -1145,7 +1145,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=285"
                         }
                     ],
-                    "label": "09 - Varik. 1923"
+                    "label": "09. Varik (1923)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=286",
@@ -1215,7 +1215,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=286"
                         }
                     ],
-                    "label": "10 - Zaltbommel (Vierde uitgave). 1960"
+                    "label": "10. Zaltbommel (Vierde uitgave, 1960)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=287",
@@ -1285,7 +1285,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=287"
                         }
                     ],
-                    "label": "10 - Zaltbommel. 1924"
+                    "label": "10. Zaltbommel (1924)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=288",
@@ -1355,7 +1355,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=288"
                         }
                     ],
-                    "label": "11 - Zuilichem (Vierde, gedeeltelijk Vijfde uitgave). 1960"
+                    "label": "11. Zuilichem (Vierde, gedeeltelijk Vijfde uitgave, 1960)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=289",
@@ -1425,7 +1425,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=289"
                         }
                     ],
-                    "label": "11 - Zuilichem. 1924"
+                    "label": "11. Zuilichem (1924)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=290",
@@ -1495,7 +1495,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=290"
                         }
                     ],
-                    "label": "12 - Gorinchem (Vijfde uitgave). 1959"
+                    "label": "12. Gorinchem (Vijfde uitgave, 1959)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=291",
@@ -1565,7 +1565,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=291"
                         }
                     ],
-                    "label": "12 - Gorinchem. 1924"
+                    "label": "12. Gorinchem (1924)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=292",
@@ -1635,7 +1635,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=292"
                         }
                     ],
-                    "label": "13 - Hardinxveld (Vijfde uitgave). 1950"
+                    "label": "13. Hardinxveld (Vijfde uitgave, 1950)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=293",
@@ -1705,7 +1705,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=293"
                         }
                     ],
-                    "label": "14 - Sliedrecht (Vierde uitgave). 1937"
+                    "label": "14. Sliedrecht (Vierde uitgave, 1937)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=294",
@@ -1775,7 +1775,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=294"
                         }
                     ],
-                    "label": "15 - Dordrecht. 1947"
+                    "label": "15. Dordrecht (1947)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=295",
@@ -1845,7 +1845,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=295"
                         }
                     ],
-                    "label": "15A - Alblasserdam (Vierde uitgave). 1947"
+                    "label": "15A. Alblasserdam (Vierde uitgave, 1947)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=296",
@@ -1915,7 +1915,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=296"
                         }
                     ],
-                    "label": "15B - \u2019s-Gravendeel (Zesde uitgave). 1947"
+                    "label": "15B. \u2019s-Gravendeel (Zesde uitgave, 1947)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=297",
@@ -1985,7 +1985,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=297"
                         }
                     ],
-                    "label": "16 - Puttershoek (Vierde uitgave). 1952"
+                    "label": "16. Puttershoek (Vierde uitgave, 1952)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=298",
@@ -2055,7 +2055,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=298"
                         }
                     ],
-                    "label": "17 - Heinenoord (Derde uitgave). 1954"
+                    "label": "17. Heinenoord (Derde uitgave, 1954)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=299",
@@ -2125,7 +2125,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=299"
                         }
                     ],
-                    "label": "18 - Spijkenisse (Derde uitgave). 1950"
+                    "label": "18. Spijkenisse (Derde uitgave, 1950)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=300",
@@ -2195,7 +2195,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=300"
                         }
                     ],
-                    "label": "18A - Goudswaard (Tweede uitgave). 1952"
+                    "label": "18A. Goudswaard (Tweede uitgave, 1952)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=301",
@@ -2265,7 +2265,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=301"
                         }
                     ],
-                    "label": "19 - Hoogvliet (Derde uitgave). 1942"
+                    "label": "19. Hoogvliet (Derde uitgave, 1942)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=302",
@@ -2335,7 +2335,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=302"
                         }
                     ],
-                    "label": "20 - Zwartewaal (Derde uitgave). 1942"
+                    "label": "20. Zwartewaal (Derde uitgave, 1942)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=303",
@@ -2405,7 +2405,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=303"
                         }
                     ],
-                    "label": "21 - Brielle (Derde uitgave). 1945"
+                    "label": "21. Brielle (Derde uitgave, 1945)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=304",
@@ -2475,7 +2475,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=304"
                         }
                     ],
-                    "label": "22 - Oostvoorne (Derde uitgave). 1945"
+                    "label": "22. Oostvoorne (Derde uitgave, 1945)"
                 }
             ]
         }

@@ -95,7 +95,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=0"
                         }
                     ],
-                    "label": "00A - Titelblad met bladwijzer en verklaring van de zamenstelling der kaart. 1830"
+                    "label": "00A. Titelblad met bladwijzer en verklaring van de zamenstelling der kaart (1830)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=1",
@@ -165,7 +165,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=1"
                         }
                     ],
-                    "label": "00B - Voorstelling van Rivierstanden en Noodpeilen, aan de peilschalen langs de rivieren de Boven-Rijn, Waal, Merwede, Oude- en Nieuwe Maas van Emmerik tot Brielle. 1863"
+                    "label": "00B. Voorstelling van Rivierstanden en Noodpeilen, aan de peilschalen langs de rivieren de Boven-Rijn, Waal, Merwede, Oude- en Nieuwe Maas van Emmerik tot Brielle (1863)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=2",
@@ -235,7 +235,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=2"
                         }
                     ],
-                    "label": "00C - Voorstelling van Rivierstanden en Noodpeilen, aan de peilschalen langs de rivieren de Boven-Rijn, Neder-Rijn, Lek, Nieuwe-Maas en Scheur van Emmerik tot aan zee. 1863"
+                    "label": "00C. Voorstelling van Rivierstanden en Noodpeilen, aan de peilschalen langs de rivieren de Boven-Rijn, Neder-Rijn, Lek, Nieuwe-Maas en Scheur van Emmerik tot aan zee (1863)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=3",
@@ -305,7 +305,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=3"
                         }
                     ],
-                    "label": "00D – Voorstelling van Rivierstanden en Noodpeilen, aan de peilschalen langs de rivieren de Boven-Rijn, Neder-Rijn en Geldersche IJssel van Emmerik tot de Zuiderzee. 1863"
+                    "label": "00D. Voorstelling van Rivierstanden en Noodpeilen, aan de peilschalen langs de rivieren de Boven-Rijn, Neder-Rijn en Geldersche IJssel van Emmerik tot de Zuiderzee (1863)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=4",
@@ -375,7 +375,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=4"
                         }
                     ],
-                    "label": "01 - Schenkenschans. 1830"
+                    "label": "01. Schenkenschans (1830)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=5",
@@ -445,7 +445,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=5"
                         }
                     ],
-                    "label": "02 - Kekerdom. 1830"
+                    "label": "02. Kekerdom (1830)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=6",
@@ -515,7 +515,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=6"
                         }
                     ],
-                    "label": "02A - Suplementair Blad, behoorende bij het blad No. 2 Kekerdom. 1830"
+                    "label": "02A. Suplementair Blad, behoorende bij het blad No. 2 Kekerdom (1830)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=7",
@@ -585,7 +585,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=7"
                         }
                     ],
-                    "label": "03 - Nijmegen. 1830"
+                    "label": "03. Nijmegen (1830)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=8",
@@ -655,7 +655,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=8"
                         }
                     ],
-                    "label": "04 - Herveld. 1830"
+                    "label": "04. Herveld (1830)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=9",
@@ -725,7 +725,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=9"
                         }
                     ],
-                    "label": "05 - Dodewaard. 1831"
+                    "label": "05. Dodewaard (1831)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=10",
@@ -795,7 +795,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=10"
                         }
                     ],
-                    "label": "06 - Leeuwen. 1831"
+                    "label": "06. Leeuwen (1831)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=11",
@@ -865,7 +865,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=11"
                         }
                     ],
-                    "label": "07 - Tiel. 1831"
+                    "label": "07. Tiel (1831)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=12",
@@ -935,7 +935,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=12"
                         }
                     ],
-                    "label": "08 - Varik. 1831"
+                    "label": "08. Varik (1831)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=13",
@@ -1005,7 +1005,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=13"
                         }
                     ],
-                    "label": "09 - Zalt-Boemel. 1832"
+                    "label": "09. Zalt-Boemel (1832)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=14",
@@ -1075,7 +1075,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=14"
                         }
                     ],
-                    "label": "10 - Zuilichem. 1832"
+                    "label": "10. Zuilichem (1832)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=15",
@@ -1145,7 +1145,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=15"
                         }
                     ],
-                    "label": "11 - Brakel. 1832"
+                    "label": "11. Brakel (1832)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=16",
@@ -1215,7 +1215,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=16"
                         }
                     ],
-                    "label": "12 - Gorinchem. 1833"
+                    "label": "12. Gorinchem (1833)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=17",
@@ -1285,7 +1285,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=17"
                         }
                     ],
-                    "label": "13 - Giesendam. 1833"
+                    "label": "13. Giesendam (1833)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=18",
@@ -1355,7 +1355,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=18"
                         }
                     ],
-                    "label": "14 - Dordrecht. 1833"
+                    "label": "14. Dordrecht (1833)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=19",
@@ -1425,7 +1425,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=19"
                         }
                     ],
-                    "label": "15 - Puttershoek. 1833"
+                    "label": "15. Puttershoek (1833)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=20",
@@ -1495,7 +1495,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=20"
                         }
                     ],
-                    "label": "16 - Heinenoord. 1834"
+                    "label": "16. Heinenoord (1834)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=21",
@@ -1565,7 +1565,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=21"
                         }
                     ],
-                    "label": "17 - Poortugaal. 1834"
+                    "label": "17. Poortugaal (1834)"
                 }
             ]
         }

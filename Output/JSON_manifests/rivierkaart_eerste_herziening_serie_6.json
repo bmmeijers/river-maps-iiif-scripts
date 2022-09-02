@@ -95,7 +95,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=229"
                         }
                     ],
-                    "label": "01 - Waalwijk. 1882"
+                    "label": "01. Waalwijk (1882)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=230",
@@ -165,7 +165,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=230"
                         }
                     ],
-                    "label": "02 - Capelle (\u2019s-Grevelduins). 1883"
+                    "label": "02. Capelle (\u2019s-Grevelduins) (1883)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=231",
@@ -235,7 +235,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=231"
                         }
                     ],
-                    "label": "02 - Capelle (\u2019s-Grevelduins) (Tweede uitgave). 1886"
+                    "label": "02. Capelle (\u2019s-Grevelduins) (Tweede uitgave, 1886)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=232",
@@ -305,7 +305,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=232"
                         }
                     ],
-                    "label": "03 - Geertruidenberg. 1885"
+                    "label": "03. Geertruidenberg (1885)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=233",
@@ -375,7 +375,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=233"
                         }
                     ],
-                    "label": "04 - Drimmelen. 1886"
+                    "label": "04. Drimmelen (1886)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=234",
@@ -445,7 +445,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=234"
                         }
                     ],
-                    "label": "05 - Zwaluwe. 1885"
+                    "label": "05. Zwaluwe (1885)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=235",
@@ -515,7 +515,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=235"
                         }
                     ],
-                    "label": "06 - Moerdijk. 1885"
+                    "label": "06. Moerdijk (1885)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=236",
@@ -585,7 +585,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=236"
                         }
                     ],
-                    "label": "19 - Klundert. 1886"
+                    "label": "19. Klundert (1886)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=237",
@@ -655,7 +655,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=237"
                         }
                     ],
-                    "label": "20 - Willemstad. 1886"
+                    "label": "20. Willemstad (1886)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=238",
@@ -725,7 +725,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=238"
                         }
                     ],
-                    "label": "21 - Ooltgensplaat (Noordelijk deel). 1886"
+                    "label": "21. Ooltgensplaat (Noordelijk deel) (1886)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=239",
@@ -795,7 +795,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=239"
                         }
                     ],
-                    "label": "22 - Ooltgensplaat (Zuidelijk deel). 1886"
+                    "label": "22. Ooltgensplaat (Zuidelijk deel) (1886)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=240",
@@ -865,7 +865,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=240"
                         }
                     ],
-                    "label": "23 - Den Bommel. 1886"
+                    "label": "23. Den Bommel (1886)"
                 }
             ]
         }

@@ -95,7 +95,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=409"
                         }
                     ],
-                    "label": "01 - Westervoort (Noord). 1927"
+                    "label": "01. Westervoort (Noord) (1927)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=410",
@@ -165,7 +165,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=410"
                         }
                     ],
-                    "label": "01 - Westervoort (Zuid). 1927"
+                    "label": "01. Westervoort (Zuid) (1927)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=411",
@@ -235,7 +235,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=411"
                         }
                     ],
-                    "label": "02 - Reden (Noord). 1927"
+                    "label": "02. Reden (Noord) (1927)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=412",
@@ -305,7 +305,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=412"
                         }
                     ],
-                    "label": "03 - Doesburg (Noord). 1927"
+                    "label": "03. Doesburg (Noord) (1927)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=413",
@@ -375,7 +375,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=413"
                         }
                     ],
-                    "label": "04 - Brummen (Vierde uitgave). 1961"
+                    "label": "04. Brummen (Vierde uitgave, 1961)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=414",
@@ -445,7 +445,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=414"
                         }
                     ],
-                    "label": "04 - Brummen (Oost). 1927"
+                    "label": "04. Brummen (Oost) (1927)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=415",
@@ -515,7 +515,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=415"
                         }
                     ],
-                    "label": "05 - Zutfen, Noord. 1927"
+                    "label": "05. Zutfen, Noord (1927)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=416",
@@ -585,7 +585,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=416"
                         }
                     ],
-                    "label": "05 - Zutphen (Vierde uitgave). 1961"
+                    "label": "05. Zutphen (Vierde uitgave, 1961)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=417",
@@ -655,7 +655,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=417"
                         }
                     ],
-                    "label": "06 - Gorsel, Noord. 1927"
+                    "label": "06. Gorsel, Noord (1927)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=418",
@@ -725,7 +725,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=418"
                         }
                     ],
-                    "label": "06 - Gorsel, Zuid. 1927"
+                    "label": "06. Gorsel, Zuid (1927)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=419",
@@ -795,7 +795,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=419"
                         }
                     ],
-                    "label": "06 - Gorssel. 1960"
+                    "label": "06. Gorssel (1960)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=420",
@@ -865,7 +865,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=420"
                         }
                     ],
-                    "label": "07 - Deventer (Oost). 1927"
+                    "label": "07. Deventer (Oost) (1927)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=421",
@@ -935,7 +935,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=421"
                         }
                     ],
-                    "label": "07 - Deventer (West). 1927"
+                    "label": "07. Deventer (West) (1927)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=422",
@@ -1005,7 +1005,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=422"
                         }
                     ],
-                    "label": "08 - Olst (Noord). 1927"
+                    "label": "08. Olst (Noord) (1927)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=423",
@@ -1075,7 +1075,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=423"
                         }
                     ],
-                    "label": "08 - Olst (Zuid). 1927"
+                    "label": "08. Olst (Zuid) (1927)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=424",
@@ -1145,7 +1145,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=424"
                         }
                     ],
-                    "label": "09 - Wijhe, Noord. 1927"
+                    "label": "09. Wijhe, Noord (1927)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=425",
@@ -1215,7 +1215,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=425"
                         }
                     ],
-                    "label": "09 - Wijhe, Zuid. 1927"
+                    "label": "09. Wijhe, Zuid (1927)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=426",
@@ -1285,7 +1285,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=426"
                         }
                     ],
-                    "label": "10 - Hattem, Oost. 1931"
+                    "label": "10. Hattem, Oost (1931)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=427",
@@ -1355,7 +1355,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=427"
                         }
                     ],
-                    "label": "10 - Hattem, West. 1931"
+                    "label": "10. Hattem, West (1931)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=428",
@@ -1425,7 +1425,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=428"
                         }
                     ],
-                    "label": "11 - Zwolle, Oost. 1931"
+                    "label": "11. Zwolle, Oost (1931)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=429",
@@ -1495,7 +1495,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=429"
                         }
                     ],
-                    "label": "11 - Zwolle (Vierde, gedeeltelijk Derde uitgave). 1950"
+                    "label": "11. Zwolle (Vierde, gedeeltelijk Derde uitgave, 1950)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=430",
@@ -1565,7 +1565,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=430"
                         }
                     ],
-                    "label": "11 - Zwolle, West. 1931"
+                    "label": "11. Zwolle, West (1931)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=431",
@@ -1635,7 +1635,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=431"
                         }
                     ],
-                    "label": "11A - Hasselt (Derde uitgave). 1951"
+                    "label": "11A. Hasselt (Derde uitgave, 1951)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=432",
@@ -1705,7 +1705,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=432"
                         }
                     ],
-                    "label": "11B - Zwartsluis (Derde, gedeeltelijk Vierde uitgave). 1951"
+                    "label": "11B. Zwartsluis (Derde, gedeeltelijk Vierde uitgave, 1951)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=433",
@@ -1775,7 +1775,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=433"
                         }
                     ],
-                    "label": "11C - Zwartemeer (Tweede, gedeeltlijk vierde uitgave). 1959"
+                    "label": "11C. Zwartemeer (Tweede, gedeeltlijk vierde uitgave, 1959)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=434",
@@ -1845,7 +1845,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=434"
                         }
                     ],
-                    "label": "12 - Kampen. Noord. 1932"
+                    "label": "12. Kampen. Noord (1932)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=435",
@@ -1915,7 +1915,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=435"
                         }
                     ],
-                    "label": "12 - Kampen. Zuid. 1932"
+                    "label": "12. Kampen. Zuid (1932)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=436",
@@ -1985,7 +1985,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=436"
                         }
                     ],
-                    "label": "12A - Ganzendiep en Goot. Oost. 1933"
+                    "label": "12A. Ganzendiep en Goot. Oost (1933)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=437",
@@ -2055,7 +2055,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=437"
                         }
                     ],
-                    "label": "12A - Ganzendiep en Goot. West. 1933"
+                    "label": "12A. Ganzendiep en Goot. West (1933)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=438",
@@ -2125,7 +2125,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=438"
                         }
                     ],
-                    "label": "13 - Keteldiep. Oost. 1933"
+                    "label": "13. Keteldiep. Oost (1933)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=439",
@@ -2195,7 +2195,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=439"
                         }
                     ],
-                    "label": "13 - Keteldiep. (West). 1933"
+                    "label": "13. Keteldiep. (West) (1933)"
                 }
             ]
         }

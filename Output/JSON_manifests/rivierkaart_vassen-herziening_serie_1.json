@@ -95,7 +95,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=440"
                         }
                     ],
-                    "label": "13 - Hardinxveld (Oost). 1931"
+                    "label": "13. Hardinxveld (Oost) (1931)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=441",
@@ -165,7 +165,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=441"
                         }
                     ],
-                    "label": "13 - Hardinxveld (West). 1931"
+                    "label": "13. Hardinxveld (West) (1931)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=442",
@@ -235,7 +235,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=442"
                         }
                     ],
-                    "label": "14 - Sliedrecht (Oost). 1931"
+                    "label": "14. Sliedrecht (Oost) (1931)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=443",
@@ -305,7 +305,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=443"
                         }
                     ],
-                    "label": "14 - Sliedrecht (West). 1931"
+                    "label": "14. Sliedrecht (West) (1931)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=444",
@@ -375,7 +375,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=444"
                         }
                     ],
-                    "label": "15 - Dordrecht (Oost). 1931"
+                    "label": "15. Dordrecht (Oost) (1931)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=445",
@@ -445,7 +445,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=445"
                         }
                     ],
-                    "label": "15 - Dordrecht (West. 1931"
+                    "label": "15. Dordrecht (West) (1931)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=446",
@@ -515,7 +515,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=446"
                         }
                     ],
-                    "label": "15a - Alblasserdam Zuid. 1931"
+                    "label": "15A. Alblasserdam Zuid (1931)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=447",
@@ -585,7 +585,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=447"
                         }
                     ],
-                    "label": "16[a] - Puttershoek . Noord. 1931"
+                    "label": "16A. Puttershoek . Noord (1931)"
                 },
                 {
                     "@id": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=448",
@@ -655,7 +655,7 @@
                             "on": "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=rivierkaart&n1=&n2=448"
                         }
                     ],
-                    "label": "16[b] - Puttershoek. Zuid. 1931"
+                    "label": "16B. Puttershoek. Zuid (1931)"
                 }
             ]
         }
