@@ -68,6 +68,11 @@
       "label": "First Revision, Series 7"
     },
     {
+      "@id": "https://raw.githubusercontent.com/tu-delft-library/rivierkaarten-iiif/main/Output/JSON_manifests/rivierkaart_eerste_herziening_serie_8.json",
+      "@type": "sc:Manifest",
+      "label": "First Revision, Series 8"
+    },
+    {
       "@id": "https://raw.githubusercontent.com/tu-delft-library/rivierkaarten-iiif/main/Output/JSON_manifests/rivierkaart_vassen-herziening_serie_1.json",
       "@type": "sc:Manifest",
       "label": "Vassen Revision, Series 1"
@@ -76,11 +81,6 @@
       "@id": "https://raw.githubusercontent.com/tu-delft-library/rivierkaarten-iiif/main/Output/JSON_manifests/rivierkaart_vassen-herziening_serie_2.json",
       "@type": "sc:Manifest",
       "label": "Vassen Revision, Series 2"
-    },
-    {
-      "@id": "https://raw.githubusercontent.com/tu-delft-library/rivierkaarten-iiif/main/Output/JSON_manifests/rivierkaart_eerste_herziening_serie_8.json",
-      "@type": "sc:Manifest",
-      "label": "First Revision, Series 8"
     },
     {
       "@id": "https://raw.githubusercontent.com/tu-delft-library/rivierkaarten-iiif/main/Output/JSON_manifests/rivierkaart_tweede_herziening_serie_1.json",
