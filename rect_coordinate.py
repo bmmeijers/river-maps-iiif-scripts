@@ -4,6 +4,7 @@ from imutils import perspective
 
 def get_coordinate(file):
     image = cv2.imread(file)
+    img_size = image.shape
 
     gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
     blurred = cv2.GaussianBlur(gray, (3, 3), 0)
@@ -32,4 +33,4 @@ def get_coordinate(file):
     # in top-left, top-right, bottom-right, and bottom-left
     # order, then draw the outline of the rotated bounding
     # box
-    return perspective.order_points(box)
+    return perspective.order_points(box), [img_size[1], img_size[0]]
