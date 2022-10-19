@@ -2,6 +2,7 @@ import pandas as pd
 import json
 import numpy as np
 import re
+import hashlib
 
 df_geo = pd.read_csv('georef.csv')
 
@@ -21,7 +22,7 @@ for i in range(len(geo_keys)):
         pixel_coord = df_geo.iloc[j]['Image Coordinate'].split('\n\n')
         uuid = df_geo.iloc[j]['uuid']
 
-        json_items = {"id": "22e16ee7e549e14b",
+        json_items = {"id": uuid,
                   "type": "Annotation",
                   "@context": [
                     "http://www.w3.org/ns/anno.jsonld",
@@ -88,7 +89,7 @@ for i in range(len(geo_keys)):
         json_geo['items'][pos_json]['target']['service'][0]['@id'] = 'https://dlc.services/iiif-img/7/32/'+uuid
 
         json_geo['items'][pos_json]['target']['selector']['value'] =\
-            '<svg width="' + str(img_size[0]) + '"height="' + str(img_size[1]) + \
+            '<svg width="' + str(img_size[0]) + '" height="' + str(img_size[1]) + \
             '"><polygon points="' + geo_mask[0:-1] + '" /></svg>'
 
     batch_name = re.sub(r'\W+', '', geo_keys[i].replace(' ', '_'))
