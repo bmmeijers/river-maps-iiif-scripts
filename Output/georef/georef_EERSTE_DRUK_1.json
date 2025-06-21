@@ -1624,8 +1624,7 @@
       "body": {
         "type": "FeatureCollection",
         "transformation": {
-          "type": "polynomial",
-          "order": 0
+          "type": "thinPlateSpline"
         },
         "features": [
           {
@@ -1639,8 +1638,8 @@
             "geometry": {
               "type": "Point",
               "coordinates": [
-                4.3036446,
-                51.8184401
+                4.3033971,
+                51.8190408
               ]
             }
           },
@@ -1655,8 +1654,8 @@
             "geometry": {
               "type": "Point",
               "coordinates": [
-                4.4199266,
-                51.8194562
+                4.4194182,
+                51.8195522
               ]
             }
           },
@@ -1671,8 +1670,8 @@
             "geometry": {
               "type": "Point",
               "coordinates": [
-                4.4189506,
-                51.8648855
+                4.4189573,
+                51.8644913
               ]
             }
           },
@@ -1687,8 +1686,8 @@
             "geometry": {
               "type": "Point",
               "coordinates": [
-                4.3025512,
-                51.8638681
+                4.3028206,
+                51.8639794
               ]
             }
           }
