@@ -2276,29 +2276,28 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"5352\" height=\"7536\"><polygon points=\"588,6914 4710,6942 4753,496 632,468\" /></svg>"
+          "value": "<svg width=\"5352\" height=\"7536\"><polygon points=\"690,6816 4609,6837 4650,594 732,589\" /></svg>"
         }
       },
       "body": {
         "type": "FeatureCollection",
         "transformation": {
-          "type": "polynomial",
-          "order": 0
+          "type": "thinPlateSpline"
         },
         "features": [
           {
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                588,
-                6914
+                690,
+                6816
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                5.4261245,
-                51.7799396
+                5.4263272,
+                51.7801786
               ]
             }
           },
@@ -2306,15 +2305,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                4710,
-                6942
+                4609,
+                6837
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                5.4989893,
-                51.7798927
+                5.4987819,
+                51.780132
               ]
             }
           },
@@ -2322,15 +2321,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                4753,
-                496
+                4650,
+                594
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                5.4991688,
-                51.8520822
+                5.4989603,
+                51.8520387
               ]
             }
           },
@@ -2338,15 +2337,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                632,
-                468
+                732,
+                589
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                5.4261871,
-                51.8521292
+                5.4263899,
+                51.8520855
               ]
             }
           }
