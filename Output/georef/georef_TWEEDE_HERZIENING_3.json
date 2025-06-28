@@ -302,7 +302,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"5532\" height=\"7784\"><polygon points=\"390,7347 5094,7361 5126,345 421,345\" /></svg>"
+          "value": "<svg width=\"5532\" height=\"7784\"><polygon points=\"390,7347 5094,7361 5124,587 5226,345 5126,345 421,345\" /></svg>"
         }
       },
       "body": {
