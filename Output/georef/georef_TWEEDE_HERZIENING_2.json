@@ -3020,6 +3020,22 @@
                 51.9776564
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4374,
+                3887
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.1288183,
+                51.9670359
+              ]
+            }
           }
         ]
       }
