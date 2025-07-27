@@ -3059,29 +3059,28 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"5556\" height=\"7128\"><polygon points=\"510,5662 4951,5706 4997,984 556,941\" /></svg>"
+          "value": "<svg width=\"5556\" height=\"7128\"><polygon points=\"609,5564 4847,5601 4898,1082 656,1057\" /></svg>"
         }
       },
       "body": {
         "type": "FeatureCollection",
         "transformation": {
-          "type": "polynomial",
-          "order": 0
+          "type": "thinPlateSpline"
         },
         "features": [
           {
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                510,
-                5662
+                1661,
+                4126
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                4.0602332,
-                51.9656862
+                4.0739566,
+                51.9788662
               ]
             }
           },
@@ -3089,15 +3088,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                4951,
-                5706
+                2436,
+                2651
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                4.1114853,
-                51.9662533
+                4.0841693,
+                51.9860956
               ]
             }
           },
@@ -3105,15 +3104,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                4997,
-                984
+                2992,
+                4065
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                4.1105575,
-                51.9988638
+                4.0860781,
+                51.9774107
               ]
             }
           },
@@ -3121,15 +3120,31 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                556,
-                941
+                3524,
+                2651
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                4.0592681,
-                51.9982961
+                4.0939415,
+                51.9846277
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4270,
+                4113
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.0974648,
+                51.9754139
               ]
             }
           }
