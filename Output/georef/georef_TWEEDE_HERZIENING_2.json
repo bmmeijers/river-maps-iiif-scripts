@@ -2355,6 +2355,38 @@
                 51.9070279
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                1584,
+                2023
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.2655901,
+                51.9110101
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2359,
+                3386
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.2655622,
+                51.9020505
+              ]
+            }
           }
         ]
       }
