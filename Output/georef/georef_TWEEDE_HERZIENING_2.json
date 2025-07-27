@@ -2774,29 +2774,28 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"5484\" height=\"7112\"><polygon points=\"501,5662 4963,5669 4970,950 508,943\" /></svg>"
+          "value": "<svg width=\"5484\" height=\"7112\"><polygon points=\"608,5564 4854,5571 4869,1049 624,1057\" /></svg>"
         }
       },
       "body": {
         "type": "FeatureCollection",
         "transformation": {
-          "type": "polynomial",
-          "order": 0
+          "type": "thinPlateSpline"
         },
         "features": [
           {
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                501,
-                5662
+                509,
+                3980
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                4.1211226,
-                51.9444504
+                4.1288183,
+                51.9670359
               ]
             }
           },
@@ -2804,15 +2803,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                4963,
-                5669
+                1133,
+                2459
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                4.1778158,
-                51.9450472
+                4.1419849,
+                51.9718872
               ]
             }
           },
@@ -2820,15 +2819,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                4970,
-                950
+                2845,
+                4368
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                4.1768664,
-                51.9802657
+                4.1438108,
+                51.9571554
               ]
             }
           },
@@ -2836,15 +2835,31 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                508,
-                943
+                4558,
+                4354
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                4.1201287,
-                51.9796682
+                4.1564625,
+                51.9512883
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3742,
+                2742
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.159558,
+                51.9615125
               ]
             }
           }
